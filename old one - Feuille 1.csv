@@ -1,0 +1,1001 @@
+company_id,current_loan_amount,loan_term,credit_score,annual_income,years_in_industry,loan_industry,past_credit_problems,business_area,had_bankruptcy,property,loan_status
+981165ec-3274-42f5-a3b4-d104041a9ca9,445412,Short Term,709,1167493,8,finance,1,urban,1,real estate,0
+2de017a3-2e01-49cb-a581-08169e83be29,262328,Short Term,,,10,transport,0,urban,0,real estate,1
+5efb2b2b-bf11-4dfd-a572-3761a2694725,1000000,Short Term,741,2231892,8,technology,1,urban,0,real estate,0
+e777faab-98ae-45af-9a86-7ce5b33b1011,347666,Long Term,721,806949,3,advertising,0,urban,0,building society savings,1
+81536ad9-5ccf-4eb8-befb-47a4d608658e,176220,Short Term,,,5,technology,0,urban,0,unknown/none,1
+4ffe99d3-7f2a-44db-afc1-40943f1f9750,206602,Short Term,729,896857,10,transport,0,urban,0,unknown/none,1
+90a75dde-34d5-419c-90dc-1e58b04b3e35,217646,Short Term,730,1184194,1,agriculture,1,urban,1,building society savings,0
+018973c9-e316-4956-b363-67e134fb0931,648714,Long Term,,,1,finance,0,urban,0,other,0
+af534dea-d27e-4fd6-9de8-efaa52a78ec0,548746,Short Term,678,2559110,2,finance,0,rural,0,real estate,1
+235c4a43-dadf-483d-aa44-9d6d77ae4583,215952,Short Term,739,1454735,1,wholesale,0,rural,0,other,1
+0de7bcdb-ebf4-4608-ba39-05f083f855b6,,Short Term,728,714628,3,finance,0,rural,0,other,1
+aa0a6a22-a95e-48e0-ba4f-b83456d424e4,541970,Short Term,,,10,technology,0,urban,0,building society savings,1
+11581f68-de3c-49d8-80d9-22268ebb323b,245023,Short Term,740,776188,1,transport,0,urban,0,other,0
+900c9191-2c20-4688-af7e-07c59b5d5a24,560000,Short Term,743,1560907,4,health,1,urban,1,other,0
+2ac05980-7848-4692-89ae-9321afe650f8,234124,Short Term,727,693234,10,transport,1,rural,1,other,0
+3ec886e7-f15d-4c35-83d0-bdec4817ae4b,449020,Long Term,,,9,technology,0,rural,0,other,1
+abb4c446-08ea-49ff-aeb8-5e1e9da673e7,653004,Long Term,,,7,manufacturing,0,urban,0,building society savings,1
+967e8733-7189-49b7-a3ab-6a1d0e1abdac,666204,Long Term,723,1821967,10,agriculture,0,urban,0,other,1
+c67b2cb5-9f91-4bcb-9a03-03d1589c6c1a,66396,Short Term,,,10,retail,1,rural,1,unknown/none,0
+422f9b72-5041-407c-8ac4-982213deacd1,390390,Short Term,747,1791738,8,finance,0,rural,0,other,1
+40f729c9-54c7-4768-9fb5-2fa41d074c48,317108,Long Term,687,1133274,8,real estate,0,urban,0,other,1
+016c5139-4da2-44ba-a0a6-7b23597526a8,128238,Short Term,750,1354073,1,agriculture,0,rural,0,real estate,0
+5b53e176-8fc7-48bf-9d78-ceb5aa284f36,153252,Short Term,714,1890690,2,wholesale,0,rural,0,real estate,1
+eb166545-76e5-43ae-8c64-3fe5ebb9c729,91894,Short Term,724,850383,10,real estate,0,urban,0,building society savings,1
+54f57722-2473-4dd8-b69b-82b5b0c1c9f9,244926,Long Term,704,1249953,4,finance,1,rural,0,other,1
+cbe53e22-ba67-4eaf-a4fb-c5acdd12ec66,465410,Long Term,688,1722654,3,real estate,0,urban,0,real estate,1
+9baf6d5d-f744-4332-abb0-e939b75cde40,,Short Term,724,1029857,1,construction,0,rural,0,other,0
+2bdc133d-cbbf-46c1-a902-488924082993,443960,Short Term,749,1432391,2,retail,0,urban,0,real estate,1
+689da294-ff83-4d49-986a-c61887f6d4e2,,Short Term,746,1749748,10,technology,0,rural,0,real estate,1
+5129cffc-68a1-4dd9-8bfe-035f3478d6dd,107404,Short Term,,,1,wholesale,0,urban,0,unknown/none,1
+f4226232-1c33-4d69-ada0-c88245fe345f,,Short Term,737,1501912,6,real estate,0,urban,0,real estate,1
+247c59e9-cf6b-40a7-ae35-d102b69991cc,334620,Short Term,729,1348620,2,advertising,0,rural,0,other,1
+1c9b6b3e-060d-4a70-8b08-522a7f589e89,130174,Short Term,733,524609,1,wholesale,1,urban,1,other,0
+61a4f1ed-e2c3-401e-aec8-9b0d7178f5ff,333564,Long Term,725,1248338,10,transport,0,urban,0,unknown/none,1
+2d53b50a-30a2-488e-a287-3780b26e62ba,109318,Long Term,,,10,wholesale,0,urban,0,building society savings,1
+b91032a8-107c-4c0f-9ef8-c517e696f497,125796,Short Term,745,1261068,5,manufacturing,0,urban,0,building society savings,1
+86b8d158-c6f7-4ff0-8aaf-4eb96a3e6adc,,Short Term,743,752039,4,transport,0,urban,0,unknown/none,1
+d1d8497b-90bf-48ea-a8b1-40c909ab1f97,161172,Short Term,720,796499,8,food,1,rural,0,real estate,0
+dedbd71d-dabd-4c64-a38f-bb5886e7f8b6,259842,Short Term,,,8,technology,0,rural,0,other,1
+f7581a72-d073-48a3-934f-14bdfae93691,449108,Short Term,718,1454507,8,health,0,rural,0,real estate,1
+64560eb4-f50d-4f14-8a86-b46c0381bef2,688468,Long Term,682,1494616,1,manufacturing,0,urban,0,other,0
+33ca84d6-61ab-4e1c-9312-77228201e7dd,210166,Short Term,,,2,wholesale,0,urban,0,other,1
+847e2dfa-a44c-4ec1-b05f-5d4a33e66885,327008,Long Term,,,4,transport,0,rural,0,real estate,1
+628b0914-b1d7-4028-b590-b50f5da53d06,288948,Short Term,729,537472,10,transport,0,urban,0,other,1
+c5a714bb-75c6-4264-a807-8a35bb12ce7d,311762,Long Term,680,2211657,4,advertising,0,urban,0,unknown/none,1
+64a23638-0025-41de-b41d-85c01eee6f1a,266112,Short Term,750,919296,1,agriculture,0,rural,0,other,0
+5d71bb9d-ce8b-499d-91bf-3df92426430d,129712,Short Term,723,1465698,10,construction,1,rural,0,other,0
+24f6b0cb-17bd-4931-8cc9-b957f20efea5,287980,Short Term,737,1013954,1,advertising,0,rural,0,building society savings,0
+6cfb0765-7cd8-4ef5-aa6e-f935caf57cf0,439428,Short Term,710,1518024,8,retail,0,urban,0,building society savings,1
+1ee733fd-fda7-4666-bbcb-059103773627,456808,Long Term,598,1096167,10,advertising,0,urban,0,real estate,1
+86d02184-ce07-4f47-9f68-45743fa29ced,518012,Long Term,719,1193010,10,wholesale,0,rural,0,building society savings,1
+2884d362-391a-4941-af69-c825cae18002,219692,Long Term,661,527839,10,technology,0,rural,0,other,1
+06d6c4a1-7a06-41c5-aeb1-fe0d7e5c895e,214874,Short Term,,,2,agriculture,0,urban,0,other,1
+41988ec9-7368-42a3-bc2f-9882fb3779f6,374176,Long Term,652,1239199,10,wholesale,0,rural,0,building society savings,1
+82b6502d-b24e-43d7-baf5-5624e566bfe3,,Long Term,730,2509520,10,transport,0,urban,0,unknown/none,1
+48e551b4-6a6f-4450-bf3c-f0ee9bcb266e,176198,Short Term,736,1902090,10,health,0,urban,0,real estate,1
+9966e08c-04a6-41ab-86d0-e4062c64bd41,78012,Short Term,738,728726,4,transport,0,urban,0,unknown/none,1
+b6f9e737-6609-45fd-8d6c-37b1b64c45df,669372,Short Term,725,2158210,7,real estate,0,rural,0,other,1
+0b25e0aa-3fe1-4540-8e6d-f6e579dfc84a,130922,Short Term,747,2261304,2,agriculture,0,rural,0,other,1
+cdb9037a-a7e4-49e5-ace2-61cb3df0e1e0,174548,Short Term,721,1620681,6,real estate,0,rural,0,unknown/none,1
+e947abb6-87fa-4e75-b381-d487bc4dd0bf,290224,Long Term,644,837045,7,health,0,rural,0,real estate,1
+2b8d9ed7-d6d4-491e-82f9-f5bee3bd9408,718784,Long Term,672,1648915,10,food,0,rural,0,real estate,1
+1902ebd8-4ffa-4182-90dd-89a9eb14a9a0,152548,Short Term,,,7,transport,0,rural,0,unknown/none,1
+c5e8d25e-4417-4e67-ac03-9d5cf3f903ca,602008,Long Term,741,2896721,2,wholesale,0,rural,0,other,1
+8e49b9f9-b15f-4d76-a1f8-2bc90dfdb07f,171248,Short Term,747,3035725,10,manufacturing,0,urban,0,building society savings,1
+88f97adf-070a-47b1-9657-38276eef7d19,523908,Long Term,737,1028774,6,transport,0,urban,0,building society savings,1
+0c0f26c2-c4c9-4f63-ae6c-1895438c6966,323466,Long Term,699,2048618,6,health,1,urban,1,other,0
+fef3362a-2732-4520-ab83-4ce52074aa4e,751520,Long Term,,,6,retail,0,urban,0,real estate,1
+6ae17645-6b2a-4088-bb0c-1ca8424fedd7,289388,Short Term,,,7,real estate,0,rural,0,unknown/none,1
+570f58b9-c502-4c7d-b1a8-9df512e9daf5,144562,Short Term,751,1060922,9,finance,0,urban,0,other,1
+c2fe5a7f-9826-48ad-ae02-b2c31cae3463,211222,Short Term,694,947625,4,technology,1,rural,1,building society savings,0
+e978f6d8-912e-418e-8649-1b970583f4c8,162360,Short Term,720,486875,10,wholesale,0,rural,0,building society savings,1
+decb6753-c45f-4f8a-ae0d-e8b26d246998,,Short Term,699,2770162,5,real estate,0,urban,0,unknown/none,1
+a17de546-6b7f-4abf-9af4-99047eeda08a,311058,Long Term,675,1343167,3,real estate,0,urban,0,real estate,1
+8980b1b1-7f07-49c7-a4f7-4268a61210f5,767536,Long Term,724,6628720,10,advertising,0,rural,0,unknown/none,1
+6e8df64b-1404-4c95-8c79-954a601ba585,133034,Short Term,,,5,finance,0,rural,0,unknown/none,1
+55012e48-1a72-4609-b289-cd25b03f1aea,389884,Short Term,657,4776125,1,transport,1,urban,1,other,0
+d377d2ea-5cf8-4ee2-b7ba-f5be4dbb1b11,163966,Short Term,678,719910,9,real estate,1,urban,0,building society savings,0
+47e5d0b1-228e-4fae-a0a5-22f4b9f8ad7d,433312,Short Term,736,1010401,7,real estate,0,rural,0,building society savings,1
+42374c5d-1275-4b47-b0d6-e1c33d02b811,,Short Term,737,2015159,6,health,0,urban,0,building society savings,1
+2bafd352-5fbb-4435-8316-fa2e7bc6950f,,Short Term,748,1875680,5,finance,0,urban,0,other,1
+3c75455c-6827-49fc-b91d-3001a1a5c9ba,89320,Short Term,748,1832075,1,wholesale,0,urban,0,building society savings,0
+ac460fac-928b-4149-b919-69ea4eb9750f,392282,Long Term,688,974662,8,health,0,rural,0,building society savings,1
+d80034d4-37b2-4380-9546-3bc3c9025077,444620,Short Term,,,2,agriculture,0,urban,0,real estate,1
+034ce7a6-999c-4ffa-a1d2-610f88a29606,262988,Short Term,743,1340279,3,finance,0,urban,0,real estate,1
+0f9f9ea4-6122-4fc6-99fd-6c6c38a32138,498586,Long Term,666,1351679,3,finance,0,urban,0,real estate,1
+f55d6d2b-646b-4d5d-996e-85f78f6fe3f2,378334,Short Term,714,2120514,2,real estate,0,urban,0,building society savings,1
+e5e051b3-545f-45c7-a975-360b732f7c97,,Short Term,734,1355802,3,retail,0,urban,0,unknown/none,1
+377a2055-0d25-4dd0-a7c9-28cb61f68259,194942,Short Term,742,1212238,1,manufacturing,1,rural,1,other,0
+46dce277-4cdd-4b47-83f8-97078cb41bc0,731566,Short Term,705,1377443,10,health,0,rural,0,real estate,1
+64f770d8-dec2-42e7-8955-6149ce7efd5f,479358,Short Term,,,10,food,0,rural,0,real estate,1
+4da78dcb-83c2-4338-9a5b-72bd01053f5c,336908,Short Term,,,10,wholesale,0,urban,0,real estate,1
+4cc38eb2-c463-493a-82e9-1571bacc69a9,270116,Short Term,,,2,health,0,rural,0,building society savings,1
+f4a63c54-c7b6-4132-a5c1-160b09c0a1cf,156772,Short Term,748,1411966,6,wholesale,0,urban,0,unknown/none,1
+40deeacb-f472-4241-9861-56ce8bfe3151,306548,Short Term,,,6,transport,0,rural,0,real estate,1
+bc653e0d-ccac-4114-b998-f53c9f2dffc8,432080,Short Term,,,10,agriculture,0,rural,0,unknown/none,1
+403bdb3c-e326-4172-9f81-4e6b992cc349,158818,Short Term,731,315666,2,construction,2,urban,0,other,0
+168cc347-945f-43d4-827b-1c06c7a80722,78738,Short Term,624,536370,2,transport,0,rural,0,other,1
+d110ff2c-c936-487a-8e4f-8a192bad9cd8,453464,Short Term,712,895147,3,transport,1,urban,1,real estate,0
+e298cbfc-074f-4441-9faf-d452aba7487f,595672,Short Term,685,1305927,10,health,0,urban,0,building society savings,1
+4b8c3426-83b6-4e7a-bd22-ab5695587508,166672,Short Term,705,1048667,10,food,0,rural,0,real estate,1
+5df79973-ce71-49e2-a6a2-a52221cd1b1a,132792,Short Term,751,668990,4,finance,0,urban,0,other,1
+fc5cff9c-c6b5-4616-a83f-c6866e7ce032,119504,Short Term,745,938315,2,agriculture,0,urban,0,real estate,1
+ba4f8d7d-4907-4870-a1b1-e79f7055e13d,33022,Short Term,723,1673007,7,construction,0,urban,0,other,1
+4bdc5535-cbfe-4f08-9852-0d2a690a4644,448976,Short Term,742,4071396,10,manufacturing,0,rural,0,other,1
+f0d6b352-bcf0-4114-9180-3e25878ddf69,280588,Short Term,717,671080,3,wholesale,1,urban,1,other,0
+151e8706-cbcc-4d7f-bff0-a13ef9f5807a,556336,Long Term,714,1402960,10,transport,0,urban,0,unknown/none,1
+455d606b-6b1e-4222-9b90-987c55d001e6,541310,Short Term,722,1682982,1,transport,0,rural,0,other,1
+8823b7a8-9c0b-4f2d-a1dc-ffcb37ee4efb,311872,Long Term,680,1063810,6,finance,0,rural,0,building society savings,1
+9d42ab3f-ccf7-4b8e-9dc0-54caaae9c343,340604,Long Term,618,928701,10,advertising,0,rural,0,real estate,1
+3fcb95d2-9f4f-4877-b959-a02948af9de4,765160,Long Term,719,2643242,7,retail,0,urban,0,other,1
+3edb6bb1-2045-4746-bd78-cdd4a7683b8d,109802,Short Term,745,474069,1,real estate,0,urban,0,building society savings,0
+030a28e3-11ef-4d3f-9601-0479039ac27c,349756,Long Term,737,2491945,3,manufacturing,0,urban,0,real estate,1
+90303eb6-110d-4aed-98e9-5bdb1ce8bb10,545886,Short Term,718,1565182,7,retail,0,rural,0,real estate,1
+d7ba72fa-b67b-46e7-8f1b-aa68520b89c8,,Short Term,750,2435667,7,manufacturing,0,rural,0,real estate,1
+dccb0b43-a54d-47ae-b01b-382d193b475b,354046,Long Term,676,1815469,10,construction,0,rural,0,real estate,1
+44c5392a-dab7-4747-a2c7-da56763c6a5e,472098,Long Term,692,2316575,10,health,0,urban,0,other,1
+3ecdcd82-6b30-4518-bdf9-92de5833caee,86174,Short Term,721,837311,1,agriculture,0,urban,0,real estate,1
+4bf2f68f-20e5-44ce-b073-a31953b2f646,509586,Long Term,678,1816001,2,retail,1,rural,1,other,0
+942d2eb9-a841-4b19-96c3-a9aaa73b0dcf,,Short Term,709,1806083,10,real estate,0,urban,0,other,1
+7a826762-3889-4043-9425-363df5f6101d,218988,Short Term,740,775409,4,construction,0,rural,0,real estate,1
+5bdd1ffb-85eb-4072-941e-226eaecebb1f,176462,Short Term,,,10,manufacturing,0,rural,0,other,1
+4e5b7ae7-5341-4435-8da8-fa5ed89b6905,328262,Short Term,746,1133958,1,health,0,urban,0,real estate,1
+453062fa-f96e-42e4-add5-d15c812fc141,663168,Long Term,732,1527296,2,agriculture,0,urban,0,unknown/none,1
+e1ca1603-7399-4ae4-a7cd-d5015c433e8c,338030,Short Term,,,8,manufacturing,0,urban,0,real estate,1
+044bdda9-adf7-4025-b77d-0160e4e834c2,446094,Short Term,,,3,real estate,0,urban,0,building society savings,1
+eb9b4903-d0df-4a68-bec9-00583ed78f33,133078,Short Term,709,804460,1,construction,0,urban,0,real estate,0
+0c687ecc-cabf-48dd-83cd-b6fa50e11fcb,278058,Short Term,,,7,real estate,0,rural,0,other,1
+8ded7e5a-b0e0-4d18-a3cf-5ad8cd5fea52,,Short Term,742,1359792,1,retail,0,urban,0,other,0
+f99cee77-ac7d-4d8b-936e-93ada7836e1b,752290,Long Term,649,2320375,3,real estate,0,urban,0,real estate,1
+c8b825f5-3188-4c38-a4cd-8dd1952d3e20,,Short Term,734,622991,6,food,0,rural,0,other,1
+1ccbd292-a4e3-4ac4-bf08-565e66f30fe6,105556,Short Term,,,10,health,0,rural,0,building society savings,1
+c9e10069-780c-4853-aa6f-092a425f2663,262724,Long Term,695,1229072,4,retail,0,rural,0,building society savings,1
+36096b3d-97e7-4b1e-89bd-660289a7a62d,54076,Short Term,744,485697,1,wholesale,0,urban,0,unknown/none,0
+9fa0a981-d220-4f8a-99c2-5321c42f070f,552882,Long Term,686,1262151,10,finance,0,rural,0,real estate,1
+1e8705ea-cf91-464b-bba9-035a4c9a6da7,257400,Short Term,,,7,transport,0,urban,0,real estate,1
+dba85a94-371c-4d9f-a0b4-d56def6659fa,462088,Short Term,,,7,transport,0,rural,0,other,1
+1ad6919e-0fe1-4628-94a6-69bbd7cb8edc,460152,Short Term,,,10,finance,0,rural,0,real estate,1
+1d77b9af-c36c-4683-81e2-54bfb01f00d6,402534,Short Term,741,3090160,9,agriculture,0,urban,0,real estate,1
+ec83df40-a37c-4c6f-89c4-e2dbe965026e,129844,Short Term,,,1,construction,0,urban,0,other,0
+735e7283-7724-484c-b113-d50e04e92c63,232716,Short Term,637,1049427,5,wholesale,0,rural,0,real estate,1
+e6b4ef94-b40d-451e-b0f7-a164ca3831fc,286462,Long Term,719,1380426,10,transport,0,rural,0,unknown/none,1
+cf4d223b-958a-4a31-8b82-09ae3996fd0c,223256,Short Term,740,804916,7,wholesale,0,urban,0,other,1
+5e02406a-3cd6-49f7-bdc7-0f90ec0bb030,348832,Long Term,704,497306,1,construction,0,urban,0,other,0
+b0d26cc8-cf23-4eb3-aa53-8074353532ce,537878,Short Term,743,1296807,1,technology,0,urban,0,building society savings,0
+0d165460-bb88-4a53-b8aa-cdbf8c3f342c,196460,Short Term,746,942590,2,transport,0,urban,0,other,1
+6ecfe8c1-8b24-472b-9efa-0fd181df38e9,214786,Short Term,723,883329,9,agriculture,0,urban,0,unknown/none,1
+01246538-e5a4-46e1-9db5-082889444846,109538,Short Term,697,567606,7,technology,0,urban,0,other,1
+d56c6737-bab6-49fc-9363-b7937e489e3a,259116,Short Term,,,6,advertising,0,rural,0,building society savings,1
+6adde19f-937f-4369-a6ad-cfe94b41d6dc,117986,Short Term,694,1886890,5,real estate,0,rural,0,other,1
+ba0dcc40-2355-4934-a4f8-1dc189964279,133804,Short Term,725,1386734,4,real estate,0,urban,0,unknown/none,1
+37c41379-e56c-4455-a94b-2b810d80a058,87846,Short Term,736,625879,4,food,0,urban,0,building society savings,1
+45f8e491-a49a-478d-8ec0-68d6fbd10c90,332684,Long Term,722,881087,10,construction,0,rural,0,other,1
+12be2338-32c8-459d-8201-e85308164a9b,190498,Short Term,706,892164,1,real estate,0,urban,0,unknown/none,0
+a18c315b-1918-4c8c-bf77-15886243427f,448822,Short Term,741,1027444,1,manufacturing,0,urban,0,other,0
+886e3ac5-357d-42ab-81cd-aaee8d28c706,229086,Short Term,715,787626,8,technology,1,urban,1,other,0
+f922a1c3-98e7-4870-ade3-dd9a9b2fa5ee,393558,Long Term,678,2317392,2,manufacturing,0,urban,0,real estate,1
+68b77d5b-94b9-46b3-a979-d9ae507df0e2,151954,Short Term,707,562419,7,retail,1,urban,0,other,0
+90fdf7b8-8547-4d7d-b7c1-a1a93117fcee,,Short Term,726,1153851,1,finance,0,urban,0,other,0
+7e1c0a75-f49e-4a18-aa19-260ff92b57df,254562,Short Term,738,669123,6,finance,0,urban,0,real estate,1
+f20cccab-9676-4fba-a5c2-7e6d52d07bba,87912,Short Term,750,960184,10,wholesale,0,urban,0,real estate,1
+f36792bd-e4e8-432a-95b6-49c8965cf1d9,156178,Short Term,716,1124040,3,transport,5,urban,0,building society savings,0
+0af8fb87-4963-408f-824d-63c51cfb7f92,645018,Long Term,737,2692471,10,transport,0,urban,0,building society savings,1
+c202ba1a-d4a2-42d7-a2f1-d0093fc4509b,605726,Short Term,748,3609145,10,transport,0,rural,0,unknown/none,1
+8aad10e5-1d3b-4014-8652-861f974b5dc4,,Short Term,741,1288523,2,manufacturing,0,rural,0,building society savings,1
+fc950ca6-8f85-425c-a800-85a71a4e0870,168300,Long Term,702,688522,2,construction,0,urban,0,other,1
+fd4ca23b-1ad4-404e-97c4-f1834094d9d8,174460,Short Term,723,1318429,3,finance,0,urban,0,other,1
+ab77813a-d625-4f19-9772-f17d6654656c,768394,Long Term,651,1651252,2,retail,0,urban,0,real estate,1
+50b9be84-4a19-4005-b50a-016352734f4d,314226,Long Term,723,2638454,1,finance,0,urban,0,building society savings,0
+47fdd7c4-e629-4826-a847-d2438cf2f445,64966,Short Term,723,1224968,4,finance,0,rural,0,real estate,1
+a32475a6-e244-4386-98a7-b02c1c78e2c1,300366,Short Term,730,833188,1,wholesale,0,urban,0,other,0
+ee43e681-9eca-4f0a-9b37-0c7a242b7963,263648,Short Term,736,1138518,9,wholesale,1,rural,1,real estate,0
+76c63206-8f06-45f1-9973-be2cda8dc4fa,,Short Term,725,1048363,10,retail,1,rural,1,building society savings,0
+a2dc4e54-eaa7-4bbc-b103-8d06d05a3f54,716958,Short Term,718,1934960,9,advertising,0,rural,0,real estate,1
+860862ac-4148-48de-88df-fff9e7f4d784,459602,Long Term,712,982870,6,manufacturing,0,rural,0,building society savings,1
+1eefc01a-2551-44c9-8305-0fd083e770ac,405856,Long Term,708,1155751,10,real estate,0,urban,0,real estate,1
+133bad47-5555-49f6-9885-70756e18ad74,547580,Short Term,710,1125978,1,agriculture,0,urban,0,other,0
+3d444fd0-12df-4671-a439-e6933570da1b,175428,Short Term,698,1136238,2,construction,0,rural,0,other,1
+c56cdb33-b1fd-4d8b-9b63-db54333910a8,216370,Short Term,,,2,manufacturing,0,urban,0,other,1
+7391b4e2-f7fe-41dd-bb58-eddcce0ea92d,,Short Term,743,756352,10,wholesale,1,rural,1,real estate,0
+64dcd3aa-3c82-4c70-929a-a83d249d894a,234806,Long Term,689,866799,9,construction,2,rural,2,other,0
+51fcba2d-c634-4e05-ba0f-9d1b3e2e70a5,25806,Short Term,685,742976,8,manufacturing,0,urban,0,real estate,1
+62c2c24e-d73e-424b-b344-173ff9c1ab34,332706,Short Term,735,957790,1,technology,0,rural,0,building society savings,0
+7d09ca08-2cdd-4da0-8419-56efa1742725,333124,Short Term,703,1300246,10,retail,0,urban,0,real estate,1
+bc0556e1-ef0d-4ad8-a579-83fffe860d50,441276,Short Term,747,2305669,10,advertising,0,urban,0,other,1
+2cfaebac-5ad2-44c3-804f-8cee5fd8ea96,327756,Short Term,707,830319,5,advertising,0,urban,0,building society savings,1
+b5c327ed-2316-4b1e-98e4-5e0a31943bef,,Short Term,736,1111367,1,wholesale,0,urban,0,unknown/none,0
+e3c54e03-73c7-418d-9672-f3eda66c4f4f,476586,Short Term,707,1403207,7,advertising,0,rural,0,other,1
+9a378a11-d17c-486f-bdc8-2ce117215d6b,263450,Short Term,,,10,technology,1,rural,1,building society savings,0
+b48dacc4-9a81-4817-9efc-62f4678f632b,261800,Short Term,738,1488536,4,construction,0,rural,0,other,1
+bcb7a8a2-54b9-4d2e-907d-066d7db1332f,433136,Long Term,682,1178323,9,food,0,urban,0,building society savings,1
+3569687c-9c83-4902-8499-07554a9de12b,322124,Long Term,716,1020034,9,real estate,0,urban,0,unknown/none,1
+477346c7-4293-4c1b-a712-89be53157e28,107536,Short Term,,,1,advertising,0,rural,0,other,0
+0c83cac3-592e-4d36-a601-b4e50af8e96e,355410,Short Term,,,10,transport,1,rural,1,real estate,0
+67d9a806-c23d-45fc-8c49-aec86224c66f,437668,Short Term,749,2683693,5,agriculture,0,rural,0,building society savings,1
+36a90e1f-25bb-4666-b78a-62b17ecc427d,377322,Short Term,740,1288162,1,wholesale,0,urban,0,other,0
+86ea6dde-87de-443a-98a8-1ddb8c454811,606122,Long Term,693,1395911,10,manufacturing,1,rural,1,other,0
+f0d0fb77-c03c-4e41-86ce-421999997be0,520982,Long Term,724,1031111,10,transport,0,urban,0,other,1
+c68e4653-01eb-4e55-88c3-80b151fa9c90,304590,Short Term,746,1202510,1,manufacturing,0,urban,0,unknown/none,0
+142ac1e6-9f6b-4656-b1c5-a3aeca3b3736,472362,Short Term,732,1075058,5,construction,0,urban,0,unknown/none,1
+91a2224e-3024-4b3c-848b-3ecf24503d71,322872,Long Term,708,985245,10,construction,0,rural,0,other,1
+51e76175-9403-4871-a6e4-c5b5ea7a1412,149402,Short Term,727,841491,1,health,0,urban,0,real estate,0
+546408e9-0300-401e-a111-446b87b78fa2,150458,Short Term,737,1330513,5,construction,0,rural,0,other,1
+77c02bb2-717c-459d-8828-7cfce08b4a0b,268268,Short Term,,,5,wholesale,0,urban,0,building society savings,1
+0e0fa488-b6cb-444e-b3cf-c2021a74cad8,341352,Long Term,712,751108,1,construction,0,urban,0,real estate,0
+2bac8213-2ea9-4aa7-9112-8cc72cbb616e,432256,Short Term,737,2053216,10,manufacturing,0,rural,0,unknown/none,1
+117496d1-3c6e-4299-a8f6-0e4668b6bef9,301114,Long Term,645,825246,1,transport,1,urban,1,real estate,0
+289b5992-ceed-469a-9c30-9a8c5567a1ee,79398,Short Term,718,761824,2,real estate,0,urban,0,building society savings,1
+50d18312-05f4-44c6-8b25-5afe86526d33,171842,Short Term,724,612199,2,wholesale,0,urban,0,other,1
+8156ed23-5700-4450-a981-dcff4cf322ce,329120,Long Term,715,1515896,5,technology,0,rural,0,building society savings,1
+fa3af482-4fd5-4b0c-8d75-d3292a195463,486288,Long Term,707,1654577,3,health,0,urban,0,real estate,1
+9af01efe-ca83-4a69-bae2-a2d80b18e467,104368,Short Term,691,853974,1,real estate,1,urban,1,real estate,0
+660e1e64-6904-4904-acd7-6c7dc096bbfc,205854,Short Term,717,1898860,10,retail,0,urban,0,building society savings,1
+1eff98c5-6382-4c2b-8241-1193ea885216,96690,Short Term,673,280136,1,health,0,rural,0,real estate,0
+580287c4-97f3-4e12-b815-4a57be8fc372,111408,Short Term,733,1154592,10,wholesale,0,urban,0,other,1
+b0e36332-8a35-45a8-94bb-a2ccdbb43f93,284152,Short Term,700,1054519,10,manufacturing,0,urban,0,building society savings,1
+f2679b6f-e5c8-4af8-8027-b2933a535741,269170,Short Term,714,1259206,10,manufacturing,1,rural,1,building society savings,0
+3ee8dea0-7560-4a54-8cf2-18a196f68618,149116,Short Term,700,1380160,7,advertising,0,urban,0,real estate,1
+e74223bc-f0d9-4ae5-8616-229c49df7902,396792,Long Term,731,745997,10,construction,0,rural,0,real estate,1
+7fa3a146-1ab1-48bf-8917-41022a07383a,128832,Short Term,719,1483520,10,transport,0,rural,0,other,1
+0ce26174-19c8-48b5-8a4d-226aca78367e,152790,Short Term,743,678661,10,construction,1,urban,0,real estate,0
+9f9bb0ba-9afd-4b10-b489-28cd65bbf75c,152966,Short Term,708,1334902,4,health,0,rural,0,building society savings,1
+529f45cf-801d-4844-994d-8b3b2db40bd9,292292,Short Term,741,666805,2,finance,0,urban,0,real estate,1
+4c328ed4-c746-4ae6-92cc-8c648dd8c366,449460,Long Term,658,1057768,3,manufacturing,0,urban,0,real estate,1
+248d929d-28d2-437b-a3ab-912346b03513,86724,Short Term,716,580469,4,wholesale,0,rural,0,other,1
+9bf42874-90b7-44b2-8567-0b26b2ce7f77,67166,Long Term,,,6,construction,0,urban,0,other,1
+48cdef94-bd16-4df1-98fc-50fc3efae88e,223850,Short Term,,,1,advertising,0,rural,0,unknown/none,0
+bdc8384b-c937-4c0b-b2a5-8e3d755c8d7b,763840,Short Term,742,1639776,10,food,0,rural,0,unknown/none,1
+c746e142-7048-4f4d-b3ff-294bc3673b3c,83864,Short Term,699,564414,1,transport,0,rural,0,other,0
+9f11cce9-12a9-48ff-a776-62aa7f6beebf,,Short Term,724,687420,4,food,0,urban,0,unknown/none,1
+2f026faa-1ea6-47b1-8be0-c69631b988f6,142846,Short Term,750,654227,10,transport,0,urban,0,other,1
+7b2a256c-be3f-4f98-b797-f9f38f075a66,551980,Long Term,720,1906840,3,transport,0,rural,0,unknown/none,1
+a02537d3-16b1-4a7a-a8a0-e7cf0ff98e6c,504658,Short Term,685,3874100,10,transport,0,rural,0,unknown/none,1
+3e28b8e1-eec6-4c4a-8b1b-d718535bc995,,Short Term,699,656849,3,agriculture,0,urban,0,real estate,1
+c8d35d40-d82a-4eed-9768-c09e61f8fe68,177628,Long Term,709,843771,5,finance,0,rural,0,real estate,1
+eef2c01f-7676-48e3-96d2-5d965f7efbd7,,Short Term,739,1004321,2,real estate,0,urban,0,other,1
+7a4ecabe-6d54-4609-a0f0-17b20b1622a9,398464,Long Term,715,975004,10,transport,0,rural,0,building society savings,1
+4a38f197-1e4a-49f9-bc02-7563c7663f69,732028,Short Term,737,1724193,10,construction,0,rural,0,other,1
+ee5f9ebe-0bc7-4be2-ba09-07329fb9f0f9,660132,Long Term,722,1634323,10,manufacturing,1,urban,0,building society savings,0
+70e8b7c3-5c89-43d9-91b2-54c5f82e6aeb,25894,Short Term,748,1024727,8,food,0,rural,0,building society savings,1
+b2e263f2-7ca6-4def-ae66-425aca9a44ce,553366,Short Term,,,1,transport,0,rural,0,other,0
+1c9b370f-8dce-4135-af08-8fdea9fcc3fa,77132,Short Term,657,2093762,5,agriculture,0,rural,0,building society savings,1
+fe12ac96-f1c9-4ee1-8564-7b9c407be684,128634,Short Term,695,463657,4,health,0,rural,0,unknown/none,1
+016cec7a-d077-4efa-8ce1-01cb0c3f14ce,429264,Short Term,735,1816571,8,retail,0,rural,0,real estate,1
+6d3ed03d-9b0f-4730-857f-2c31484bcb0c,131032,Short Term,,,8,finance,0,rural,0,real estate,1
+d05982f1-bfcd-418f-add8-afcdd79c1e02,427988,Long Term,729,1624082,10,manufacturing,0,rural,0,real estate,1
+597d860d-c890-4f31-b476-f8996bb8fdc4,204248,Short Term,737,779893,5,advertising,0,rural,0,real estate,1
+ce0e117f-d104-4681-82cb-4bbe32ca48dd,653334,Short Term,722,2068891,10,transport,0,rural,0,unknown/none,1
+19542fc0-6f7e-4e88-8d98-bb678d68ea30,226336,Short Term,724,1409610,6,manufacturing,4,urban,0,real estate,0
+fedd8518-ead5-4392-ba6a-78707a75a5c6,,Short Term,735,1520608,8,agriculture,0,rural,0,real estate,1
+6841d292-bf4d-4f08-bdef-b851643cee7f,216612,Short Term,722,897959,7,wholesale,0,urban,0,real estate,1
+f4a4857d-fdac-4f25-8886-607574527864,218130,Short Term,728,602832,5,manufacturing,0,urban,0,other,1
+ffe02306-8102-4c69-a514-72ef531ce7e1,449768,Long Term,,,2,manufacturing,0,rural,0,unknown/none,1
+07838ed8-d984-456f-bd10-308126ab9774,431288,Short Term,738,1378165,10,agriculture,1,urban,1,building society savings,0
+ee5e2ea2-6641-428d-9770-455672dfdd17,541794,Long Term,674,1538145,8,construction,0,urban,0,other,1
+2d1f095e-2db8-4c97-a8aa-557615b67804,448404,Short Term,746,1166220,10,wholesale,0,urban,0,real estate,1
+70f10338-c42a-442b-8d27-fd47fe3f6d39,117854,Short Term,709,848958,10,construction,0,urban,0,real estate,1
+e460bc99-b5fc-4b3b-979e-1e7c5be6c81d,537196,Long Term,654,2551643,10,construction,0,rural,0,unknown/none,1
+63796095-b7b6-4f04-b17c-e77f3c799fa5,196108,Short Term,715,865602,10,advertising,1,rural,1,other,0
+6883114b-f6c5-4eec-8048-91be2a5068a7,337656,Short Term,744,1205322,10,manufacturing,0,urban,0,real estate,1
+5ddd0f20-e1b7-490a-a3dd-dd36d0380664,441628,Short Term,,,1,real estate,0,urban,0,real estate,0
+f7f8e132-37ed-4cc7-a5f9-5d5dea766cdb,448272,Long Term,716,1045285,10,finance,0,rural,0,other,1
+01af6fa9-b03b-4271-ad41-68144af5174c,581592,Long Term,,,10,construction,0,urban,0,unknown/none,1
+f36aa067-20f8-4fc1-a4b3-ee8583e1771e,63140,Short Term,733,233681,1,real estate,0,rural,0,unknown/none,0
+a8cd0882-f4ae-44ed-bdba-b0fa88032f8d,223344,Short Term,719,1157328,7,health,0,urban,0,real estate,1
+f5b57b23-e214-427a-8d8f-79e3120cc3f5,436172,Long Term,744,1054747,4,food,0,urban,0,other,1
+1b7eb5be-f3f3-4fbd-9ea9-f5375ded5692,157146,Short Term,735,678566,6,construction,0,urban,0,real estate,1
+2ea0bc45-2e41-4932-af65-e4ed6e8554cf,178046,Short Term,716,2815781,10,real estate,0,urban,0,other,1
+e25e2a25-19db-4100-97fc-18282b8c98a0,,Short Term,721,805733,10,construction,0,urban,0,building society savings,1
+6c23d05e-c604-4b43-a6cb-7a0e44bad670,,Short Term,746,456646,10,wholesale,0,rural,0,other,1
+8cd8a9f1-ee07-4ba2-a0f8-87aa31435c90,216194,Short Term,720,1077528,5,retail,1,rural,1,building society savings,0
+baba73db-8398-4d46-be16-3344448fc21f,430100,Short Term,739,1448655,10,agriculture,0,rural,0,other,1
+22702252-ce3f-49f3-b62b-92022bf4c7fb,562760,Short Term,738,1263652,3,manufacturing,0,rural,0,unknown/none,1
+dabfeeab-b80c-41ab-90ae-8d3549d3c72b,215006,Short Term,,,1,technology,0,rural,0,real estate,0
+df9f570e-c620-4065-a045-1fdb1441d8ca,325622,Short Term,,,3,agriculture,0,urban,0,unknown/none,1
+efb8142e-318b-4c95-ab8a-0debf34bea04,118998,Short Term,686,576327,10,transport,0,rural,0,real estate,1
+7d58405b-a575-43df-882d-3053fef20637,334356,Short Term,749,1636318,2,food,0,urban,0,other,1
+db57077a-6e13-425c-8e82-211c0e2f79c0,266926,Long Term,725,1632936,5,technology,1,urban,1,building society savings,0
+191d6883-713d-4380-96d6-417a9cc0830d,224796,Short Term,681,573819,1,advertising,0,urban,0,building society savings,0
+26fa597c-e2b9-4873-8894-f3574e95503b,401852,Long Term,725,1263785,10,transport,1,urban,1,other,0
+d75c5d50-9703-4571-85e9-37c19de411c5,309540,Short Term,,,9,health,0,rural,0,unknown/none,1
+87630839-daf3-4eab-9d2a-f53837fbb87a,273482,Long Term,693,1115699,10,transport,0,urban,0,real estate,1
+9d6258bf-f326-4fa5-8d51-c61c4e09ea84,323708,Short Term,723,1640061,3,technology,0,rural,0,other,1
+ceb55b24-7481-4290-a522-f9455d6f051c,88528,Short Term,696,993833,2,health,0,urban,0,building society savings,1
+30e80eb8-22e8-43b1-a927-6c98e5d1ff3c,249568,Short Term,,,3,agriculture,0,urban,0,other,1
+561f4e5e-1c14-48f6-a973-f88429fdc265,,Short Term,713,606290,7,manufacturing,1,urban,1,real estate,0
+e18f7cf9-0093-4946-a878-e239f14f2db7,416834,Short Term,,,8,agriculture,0,rural,0,building society savings,1
+735ddd4f-0c4a-41b8-ba3b-f52b98fa8e2e,110902,Short Term,697,2202917,5,food,0,rural,0,unknown/none,1
+0abf8e06-2433-4009-8ad5-adf64ddc80c8,132022,Short Term,727,855095,7,construction,0,rural,0,real estate,1
+1dc24b5e-f322-469b-a154-a15fea750baf,277948,Short Term,707,1118948,10,wholesale,1,rural,1,real estate,0
+33bf0df2-a905-4963-9d22-7375ee815b3d,219186,Short Term,748,2233697,3,construction,0,rural,0,real estate,1
+662a169b-55a7-49ff-be87-861f0fdbb357,178684,Short Term,739,1176727,2,construction,0,urban,0,other,1
+9a9e3ed2-d6b2-47e3-b87a-312a5da73343,108526,Short Term,743,1312045,7,construction,1,rural,0,unknown/none,0
+bcd9849c-6b3a-4967-a7d2-fd071e621e77,222156,Short Term,,,10,technology,0,rural,0,unknown/none,1
+e50769c7-d01a-43af-b66d-9a13dc014f36,205524,Short Term,676,1167132,5,technology,0,urban,0,other,1
+a3e68c54-ec6c-4f27-861b-d60025f36cde,134618,Short Term,746,968905,1,manufacturing,0,urban,0,other,0
+f83594ba-4d1d-45e2-ba80-5cf51e8c35f1,94974,Short Term,694,301093,1,agriculture,0,rural,0,other,0
+9281ecfc-e6e4-42cf-97d9-bd7911ed4dae,523248,Long Term,668,1468662,8,wholesale,0,urban,0,building society savings,1
+847a26f1-a423-49df-ae24-9b604609ad92,588544,Long Term,687,1491158,5,finance,0,urban,0,real estate,1
+09c6f224-cf1f-4c50-b3ac-30c93dc5ff28,,Short Term,725,2229137,1,advertising,0,rural,0,other,0
+ca4f90bc-7222-4792-9061-6b30772818bf,319330,Short Term,,,10,transport,2,urban,0,real estate,0
+073e047d-fe1a-4d74-87e8-27fc569a9052,391468,Short Term,742,629850,1,retail,0,rural,0,other,0
+f2c78905-f5de-4b37-97db-2b169ffb76a7,,Short Term,737,1054937,10,real estate,0,urban,0,real estate,1
+c793367c-0942-4d2b-b453-df38f94d345d,432168,Short Term,736,1343642,10,real estate,0,rural,0,building society savings,1
+d959a0ee-3b70-4344-a4ec-faecafd20145,628474,Long Term,676,1235741,10,wholesale,0,rural,0,unknown/none,1
+a54d79f2-4314-4964-9c88-d1b2f0450a41,513524,Long Term,659,1115718,4,advertising,0,urban,0,real estate,1
+a2a44277-fd9b-45ff-a28c-9a4c3678c41a,765006,Long Term,736,6606775,7,construction,0,urban,0,building society savings,1
+597b6a21-89f4-4c78-83a4-ab24a7725c52,141636,Short Term,716,1051175,1,manufacturing,0,rural,0,unknown/none,0
+df888b2a-d3e8-4351-93b6-acf3ab7e17c6,,Short Term,750,931095,4,food,0,rural,0,real estate,1
+1ccd46bb-adc7-4676-a406-f3eeb3dbb284,130328,Short Term,740,1707207,2,technology,0,rural,0,real estate,1
+9f4ebd2a-621d-44c3-b4cc-02952d3227e6,268664,Long Term,718,1160178,1,construction,0,rural,0,unknown/none,0
+642ec47d-8e65-4bbe-908b-a440ad279979,753368,Short Term,,,7,health,0,urban,0,other,1
+a239a831-642f-4cf8-926c-beac6ee5f36d,448712,Long Term,696,1264602,5,agriculture,2,urban,0,other,0
+a5590971-4224-4f70-bfc1-a561c65e01ec,334686,Short Term,742,963490,10,retail,0,rural,0,other,1
+b80882aa-56b6-4e07-9897-c33e506ec24e,125004,Short Term,,,5,transport,1,urban,1,real estate,0
+7e53c8ce-62b4-4587-89f0-76b039b0ea1a,,Short Term,728,311372,1,retail,0,rural,0,other,0
+58fe46dc-0b80-43db-8df9-80b7fb75924d,242616,Short Term,,,4,technology,0,urban,0,building society savings,1
+aed4c830-c921-4cd4-8fc8-f2622828d3e9,175076,Short Term,742,748486,8,wholesale,0,urban,0,building society savings,1
+2b0b8447-335c-408d-9226-919788601a79,107712,Short Term,744,576688,10,health,0,urban,0,other,1
+78d34582-bfa9-4905-87f6-e2388392350e,155210,Short Term,744,1053265,6,retail,0,urban,0,building society savings,1
+8980f73f-9444-476b-9f9d-a03b7cbca798,,Short Term,747,914432,8,manufacturing,0,urban,0,other,1
+a4daa4ec-bafe-4c1b-960e-905b5b2644f0,712404,Long Term,618,6283072,2,agriculture,1,urban,1,building society savings,0
+b183e74e-c2f5-44ca-82bb-edfb87dca58c,753610,Long Term,676,2212835,10,agriculture,0,rural,0,unknown/none,1
+cc8b7adc-f294-45d6-9348-240f1899f6cf,154748,Short Term,748,1603657,8,wholesale,0,rural,0,other,1
+dcc6ab9d-f70d-4b50-975e-4c165c09b9af,251416,Short Term,720,1057293,6,food,0,urban,0,real estate,1
+445a6146-6b1f-47c1-8550-cf396f30d24b,764390,Long Term,705,1603220,2,finance,0,rural,0,real estate,1
+d1eeca26-b38a-4b30-8687-9572e214c88f,215006,Short Term,,,2,real estate,0,rural,0,building society savings,1
+a516d48a-155e-4cbb-8710-43bddd55b655,616902,Long Term,647,1405772,1,agriculture,0,urban,0,other,0
+6e74edf5-0498-4171-9123-f7f637520240,,Short Term,716,2848575,1,construction,0,rural,0,other,0
+f4e50dd6-fd48-4d7d-8f4c-c4da73af8194,,Short Term,743,773300,10,retail,0,rural,0,other,1
+87c44b01-2054-49f0-872d-cd0f4e503385,447788,Short Term,,,2,advertising,0,rural,0,unknown/none,1
+58e605ce-de2a-4851-9126-022c7591fc2f,170962,Short Term,710,598082,6,finance,0,rural,0,real estate,1
+ffbd01e5-5886-47fa-82e7-0c29cb14f30f,,Short Term,704,1160862,6,wholesale,0,rural,0,building society savings,1
+5f88aa1b-7526-47b4-99cf-51671f27817c,340362,Short Term,,,10,technology,0,rural,0,other,1
+7d0315cd-ebd7-4580-b1fd-5396d5719556,332222,Short Term,746,891119,3,technology,0,urban,0,unknown/none,1
+6885de95-8a49-4ddb-a8da-b4d3bbb88190,,Short Term,733,1803936,2,transport,0,urban,0,real estate,1
+f17b80fe-d2b7-4015-944a-b61b9ec5f13a,,Short Term,743,1496193,2,retail,0,rural,0,building society savings,1
+6f0fb886-cacf-4e15-82cb-d125472a0c7b,440132,Long Term,676,1292380,6,construction,0,rural,0,other,1
+2ee68db3-8790-494b-b328-c308a1234cd1,403414,Long Term,,,6,food,0,urban,0,building society savings,1
+0c4d94c3-2e19-4e78-a4f2-bc6e3b40d5cb,112574,Short Term,729,1555416,10,advertising,0,urban,0,other,1
+b594bff7-3030-4318-933e-427e57129cb7,88198,Short Term,741,825968,1,construction,0,urban,0,unknown/none,0
+865bd443-5b86-4b07-9218-8dffe43209fc,764544,Long Term,703,1697859,6,health,1,urban,1,other,0
+3ba73ec7-aa01-49b2-beb0-53eaab294c0a,224642,Short Term,741,1056039,7,finance,0,urban,0,real estate,1
+f06b759a-06f2-4061-b10a-b09e05b04d82,446336,Long Term,683,1117865,7,retail,1,rural,1,real estate,0
+ef3ea28c-01b1-478a-aa98-4ea0b3398a15,447656,Short Term,732,1585113,10,advertising,0,urban,0,building society savings,1
+271886d9-a9f9-4d48-b335-c6386e852408,261910,Short Term,675,1438509,6,manufacturing,1,rural,1,other,0
+4eab7a13-91ce-450a-8d34-e85e2c11570a,746372,Long Term,715,2302116,9,advertising,0,rural,0,real estate,0
+b2f2d7d2-e4c6-4f63-8dc0-e6ef40555d4a,146982,Short Term,670,981578,10,construction,0,rural,0,unknown/none,1
+c98e31fb-7471-4a58-9cb7-a04c8104abd8,533698,Long Term,699,1853298,1,agriculture,0,rural,0,real estate,0
+78975426-c4c4-4fe8-87d9-2f067a3130cf,316514,Short Term,,,1,advertising,0,urban,0,unknown/none,0
+535b4968-b8f8-45a0-8840-796cc7ec0098,563068,Long Term,623,2094807,1,agriculture,0,urban,0,real estate,0
+f104bb8f-a70d-4e89-8dae-81db356d8452,163482,Short Term,711,564756,10,wholesale,0,urban,0,other,1
+8b3823d4-d69f-48cc-b829-a97174e1d5fa,173316,Short Term,744,954275,2,advertising,0,rural,0,unknown/none,1
+fc22174a-fbb3-4cc5-bbbe-37846690c20a,133936,Short Term,639,347035,1,agriculture,0,urban,0,building society savings,0
+ca3da155-a63a-4d39-b8b4-898b0e6c28f6,64526,Short Term,747,185782,1,food,0,urban,0,unknown/none,0
+decba3f3-c30b-4116-821f-b26898388a7e,47806,Short Term,671,835620,2,retail,0,rural,0,real estate,1
+cf3d93fb-6762-4a14-afa9-05b252698f34,131934,Short Term,,,10,wholesale,0,rural,0,real estate,1
+03709adc-3272-4711-9845-70f4cb09550a,147576,Short Term,748,463429,2,construction,0,urban,0,other,1
+edfb58ce-4aaa-4ab9-a448-caba8034a937,545160,Long Term,699,3954888,10,technology,0,rural,0,real estate,1
+de7e5f8e-bdf9-4eaa-8266-9e16da5be3c2,657294,Short Term,691,2270652,4,wholesale,0,rural,0,real estate,1
+884afe37-a98f-4454-ac38-512e49de8002,780406,Short Term,715,3369897,9,agriculture,0,rural,0,unknown/none,1
+5f8d13d9-fc42-491d-beb7-6872bb2e8b8e,,Short Term,743,2688462,1,food,0,urban,0,other,0
+f48c2e72-a017-483f-8bd2-c260d081cbee,43318,Short Term,708,897769,4,transport,0,urban,0,other,1
+42790d99-2adc-4eee-9c18-1937c3b43424,44792,Short Term,723,502892,7,technology,1,rural,0,building society savings,0
+bf7c49ea-940b-4958-8f60-55f45c3d57c8,,Short Term,738,992256,7,manufacturing,0,urban,0,other,1
+b4e257bc-1da0-4273-9272-0f93d9b26e3a,772772,Long Term,699,3336970,9,transport,0,urban,0,other,1
+5d39e9c4-d45d-4f24-a767-8e96ee964643,268004,Short Term,750,867996,10,manufacturing,0,urban,0,other,1
+4ae48a91-7be2-40b1-a66d-6f7d5b6b5e7f,776864,Short Term,687,1629383,10,finance,1,urban,1,other,0
+cadc3a31-59f7-4e44-86d5-1244409aa0a3,273856,Long Term,614,821826,10,construction,0,urban,0,other,1
+315c2ccc-48c7-4f48-bf39-ab34f49a8c31,33154,Short Term,713,572793,10,wholesale,2,urban,2,real estate,0
+09c612b9-a6f2-4a03-9901-160dbc03b4a9,450384,Short Term,746,1166904,10,real estate,0,urban,0,real estate,1
+17f9fb19-deb1-4746-a388-491b55556cc3,662310,Short Term,699,1258389,10,finance,1,urban,1,other,0
+0cdf50b9-efc7-4577-8bf6-6ff6ffdf86c1,353232,Short Term,712,823707,10,finance,0,rural,0,real estate,1
+55ee39ef-0a44-4b79-8154-a512c22bdb97,,Short Term,734,950399,3,finance,0,urban,0,unknown/none,1
+bb433d07-83ce-45b4-95aa-88f6da823bbe,221056,Short Term,741,954560,10,food,0,rural,0,unknown/none,1
+1a5685b7-450d-44c6-9390-2e16387f7cd8,76340,Short Term,,,1,manufacturing,1,urban,1,other,0
+a7a06859-14a2-4e5b-ab74-92fe625a229c,469678,Long Term,667,2250246,6,technology,0,rural,0,real estate,1
+0363c6d8-3b43-4266-92cf-113e1fca7d5c,,Short Term,739,3095632,3,agriculture,0,urban,0,unknown/none,1
+4eb7b183-8053-4d35-b012-7ff377223980,,Short Term,726,2311236,9,real estate,0,urban,0,unknown/none,1
+35831535-e42c-4109-b006-4685c874a6b2,,Short Term,734,652099,10,finance,1,urban,0,other,0
+0a0ed036-ce6b-41a9-b0ee-8db814a85425,319726,Short Term,749,952185,2,wholesale,0,rural,0,other,1
+3c6f7594-ac3f-4a3b-8546-61137ee93213,460350,Short Term,736,888041,5,technology,0,urban,0,unknown/none,1
+1818da89-2018-4750-b7e4-70ba4d13e86a,133606,Short Term,701,2538343,9,agriculture,0,urban,0,building society savings,1
+96014749-34d9-4449-9a6d-874b6b762986,79948,Short Term,741,230147,1,manufacturing,0,urban,0,real estate,0
+8d3fe0d8-97d9-4e39-9d69-a030e72ba161,67298,Short Term,,,1,wholesale,1,rural,1,building society savings,0
+160993af-7836-4e58-9f0c-1c894dc1b764,767690,Short Term,731,1629098,10,construction,0,urban,0,other,1
+faa524e8-2e89-414e-9a18-3042d1ef9166,328350,Short Term,745,1343243,10,real estate,0,urban,0,real estate,1
+77cc7b59-b2db-4c65-bfb6-d878b1a228fa,380622,Long Term,657,969665,3,retail,0,rural,0,building society savings,1
+7352605a-a1fc-4f3a-804d-bb7df0dbf646,281710,Short Term,728,831953,2,technology,0,rural,0,other,1
+6e1f347c-42e6-46e5-9af0-e982346990c1,418572,Long Term,704,1201788,4,transport,1,rural,1,other,0
+f4f1de27-a30b-41c6-9357-79a73a23ed12,332552,Long Term,,,10,construction,0,urban,0,building society savings,1
+6d385ad8-34ab-4eb7-8364-97a516c00e3a,161656,Short Term,749,874874,9,health,0,urban,0,real estate,1
+37e59c53-92cc-4abb-a7d4-918188a8c485,,Short Term,731,1307124,3,wholesale,0,urban,0,unknown/none,1
+d0a8be34-eef9-4005-beb5-cfb5b0468222,87274,Short Term,719,753692,10,technology,0,rural,0,other,1
+86b76475-e158-42ee-a94b-ac9f7916ebf3,456126,Short Term,,,10,technology,0,urban,0,other,1
+6c301164-4828-4de3-9a2c-767bf95e9c23,294580,Short Term,744,1734624,10,food,0,rural,0,unknown/none,1
+a7802168-2b18-49ef-b6a5-a88de894c9b1,,Short Term,747,1025487,4,retail,0,rural,0,unknown/none,1
+e8ddad09-0042-42d4-93aa-b45dd89fbddd,526196,Short Term,,,10,health,0,urban,0,building society savings,1
+a7f14ec6-d7f1-41c1-8a88-69fd6a5d807b,39138,Short Term,731,751336,4,retail,0,rural,0,real estate,1
+efe184e6-8ff3-437b-9990-9cd1870cadf3,516978,Long Term,712,1261809,1,agriculture,0,urban,0,real estate,0
+c89321f5-ed4f-47b7-a45b-198cf02fedd8,178882,Short Term,,,7,finance,0,rural,0,real estate,1
+2a01b536-ed56-49a8-b2b6-b07f131cb7dd,327404,Short Term,,,10,wholesale,0,urban,0,real estate,1
+3d31b81f-ea84-4e18-8b0d-2027e26a4ca4,90112,Short Term,,,6,retail,1,urban,0,other,0
+d532715b-a0ea-4ceb-8b35-71f5a626815e,449724,Short Term,720,925946,4,manufacturing,2,rural,1,other,0
+023fa202-c60a-4d28-9961-3fe45d280800,260436,Long Term,734,1244272,10,retail,0,urban,0,other,1
+121f643b-6e0c-47c6-87b6-b9a924207efa,260810,Short Term,,,2,manufacturing,1,rural,1,building society savings,0
+314a1015-c9e0-4fd1-bc2f-f210436d1a62,539176,Long Term,712,1154801,10,health,0,urban,0,other,1
+eb62bb6a-89db-4c1e-81ee-219ca7dff471,756844,Short Term,,,4,real estate,0,rural,0,real estate,1
+f51f824d-fb8a-4ab6-b211-4db6d706b00c,264396,Short Term,737,1712565,10,agriculture,0,urban,0,other,1
+847a95e9-1543-4b45-8b42-3b93b5acc8c0,242264,Short Term,744,584345,5,wholesale,0,urban,0,real estate,1
+1a7fbc55-d351-48ef-b7eb-d1680fb416cd,444752,Long Term,706,1920520,5,finance,0,rural,0,other,1
+cb675274-6c28-4bf7-a075-5cc990cf5c51,251196,Short Term,740,1051536,5,advertising,0,urban,0,other,1
+0ec4572c-0882-4245-b2a1-7015771148b7,224312,Short Term,700,678034,3,manufacturing,0,urban,0,other,1
+ba68a268-8b71-4107-950a-8c5f17a76950,222728,Long Term,615,905160,1,health,0,rural,0,unknown/none,0
+a7f73a96-01e2-457e-846e-5c8d18d4221a,266882,Short Term,,,10,finance,0,urban,0,building society savings,1
+8e3e3601-6f19-4818-8915-4c3e3f58c2fd,450648,Short Term,737,1634627,10,agriculture,1,rural,1,building society savings,0
+ceeff234-9aa8-494f-9935-e1a963b27960,500302,Short Term,,,7,manufacturing,0,rural,0,real estate,1
+14caac2b-1ab5-4625-adce-733b26643f70,407528,Long Term,711,928226,2,retail,0,urban,0,other,1
+ab46b1a7-f937-4ba9-ac98-270344120cf7,152372,Short Term,697,845937,1,agriculture,0,rural,0,other,0
+d3291318-0960-44db-beb2-cae8cf8029d4,704946,Short Term,717,1352914,5,retail,0,rural,0,building society savings,1
+ab46b1a7-f937-4ba9-ac98-270344120cf7,152372,Short Term,697,845937,1,advertising,0,urban,0,other,0
+471802fa-e65d-4247-92d1-9a838d2b2080,630234,Short Term,,,1,construction,0,urban,0,other,0
+9a0ed640-48ab-48c4-9948-5bbb27cd1fe5,87472,Short Term,695,679896,4,food,0,rural,0,real estate,1
+2a445931-cd27-44c7-838e-c9dede943278,178046,Short Term,,,1,advertising,0,rural,0,real estate,0
+4cb4da1d-b371-4208-8e1a-72d68d6a7334,155738,Short Term,,,10,advertising,1,urban,1,building society savings,0
+9d65a472-7fdb-4eb8-8fcd-5597554a6082,234036,Short Term,703,665798,10,advertising,0,rural,0,other,1
+03f8cd85-1ce1-4754-a955-f32e17eaee60,,Long Term,615,1282462,10,wholesale,0,rural,0,other,1
+4e3eee3d-4f66-4a08-8060-154c1cbc29fc,223146,Short Term,719,573819,7,construction,1,urban,1,real estate,0
+21a58539-2489-4b5a-8606-b7a64e606fec,649902,Long Term,695,1309651,10,construction,0,urban,0,other,1
+c6abf067-c8b9-44f9-be06-4271cb13e550,214632,Short Term,722,1448237,9,manufacturing,0,urban,0,unknown/none,1
+907ae5a2-9fe1-4093-9d47-94af6af76f0e,,Long Term,710,1733788,1,manufacturing,0,rural,0,real estate,1
+b36af03c-aabf-4817-a356-cba3f9b80aa0,207636,Short Term,,,10,retail,0,urban,0,other,1
+44836e28-1f4b-428f-aea6-073ab6437c68,,Long Term,693,1885959,10,real estate,0,rural,0,unknown/none,1
+7c5ef5d9-ff25-4006-a399-cee0e175e54a,396286,Short Term,741,2528767,10,finance,0,rural,0,real estate,1
+3d6b26e0-e22a-4b63-8f4f-aecc83b723b9,268664,Short Term,727,899954,8,food,0,rural,0,real estate,1
+35de5f47-b2b9-4e16-af6a-5455ade15f11,405746,Short Term,742,1168044,5,transport,1,urban,1,real estate,0
+23fbae3c-895e-43d9-bae9-077999282de3,188166,Short Term,747,2408554,10,retail,1,rural,1,real estate,0
+3cec97a7-6e88-4d1c-8ce1-b635c7ffd354,358578,Short Term,711,1509721,9,construction,0,urban,0,real estate,1
+6c9bb30e-e5eb-4b42-a5af-936e5f86bf00,94534,Short Term,718,777556,2,technology,0,urban,0,other,1
+f8fe1ce7-dd1b-45e4-86d8-1446b353b817,767624,Short Term,733,2083825,1,retail,0,rural,0,real estate,0
+67df0dd6-0eba-4a63-b3cd-e9333d9e8e79,403964,Short Term,744,1763561,10,advertising,0,urban,0,other,1
+65fae922-65ac-42d8-910a-d43c187b0c07,531168,Long Term,724,1834944,10,technology,0,rural,0,building society savings,1
+bd34e363-b56a-4c33-8c77-0a49d20728ac,390896,Short Term,735,804460,7,agriculture,1,urban,1,other,0
+3e6f9a14-595e-4c93-b16a-6b9e0691a39a,134794,Short Term,736,927523,4,agriculture,1,urban,1,other,0
+8059ca3a-ca55-4bea-8f6e-d5b353a19d4c,,Short Term,741,1157328,1,finance,3,rural,1,other,0
+35ff2d58-59e1-4455-af50-3438a78ed021,134596,Short Term,723,1356201,1,transport,0,urban,0,building society savings,0
+e9402e8e-ca22-4834-a024-d89e674b5afb,311850,Long Term,723,694564,10,finance,0,rural,0,other,1
+94c953bf-f551-43bd-9374-d41bc899e362,,Short Term,722,1450441,5,retail,0,rural,0,real estate,1
+39b4e50e-b907-42c4-9741-322c29dbe476,429000,Short Term,746,926250,10,food,0,urban,0,real estate,1
+277f0c8d-3100-4734-acde-eabfda554112,215446,Short Term,720,1308283,1,real estate,0,urban,0,building society savings,0
+d52fe572-9db8-419c-91c9-33ec04025163,375650,Short Term,724,768398,10,construction,0,rural,0,other,1
+ea4d01b3-bfe1-4759-b165-10a3043c7257,762696,Long Term,656,6906766,3,health,0,rural,0,real estate,1
+b96bd37d-f920-4e89-8707-53349a8a3e6c,267872,Long Term,,,10,real estate,0,urban,0,building society savings,1
+e15c3081-4cec-4988-ae46-073d7ef52a61,781022,Long Term,653,2004253,10,manufacturing,0,urban,0,other,1
+279c0b13-4338-47e8-8387-5e2abd791216,,Long Term,700,410020,1,finance,0,urban,0,building society savings,0
+9078506e-5fe4-461c-a420-66321502c708,216832,Long Term,,,2,construction,1,rural,1,unknown/none,0
+d7887c0c-decc-4fb2-adb2-f6f65c6d4f15,,Long Term,707,1208324,3,food,0,urban,0,real estate,1
+e7bbc5c3-bd7a-4803-a170-7eaa2d8de78a,131934,Short Term,717,531734,1,finance,0,rural,0,unknown/none,0
+4448c50f-658f-4897-89b0-8da53c60cbb5,,Short Term,738,2081792,10,finance,0,urban,0,real estate,1
+78bd8382-79d1-46fb-b73e-13549f184e9a,,Short Term,745,665608,1,wholesale,0,urban,0,other,0
+7b1a2716-7c87-4cb3-9524-214c04ab6312,556996,Short Term,733,4521715,1,wholesale,0,urban,0,building society savings,0
+62550808-4d89-4058-9a93-b8dec2606e71,158026,Short Term,716,1091854,10,technology,0,rural,0,real estate,1
+83375a14-3b11-47e3-adcc-aba68b9aa3a4,773388,Short Term,,,10,agriculture,0,rural,0,real estate,1
+a8cc187e-2d6d-4fda-867a-f4b527a5349f,130746,Short Term,734,1018590,10,construction,1,rural,1,building society savings,0
+87af014b-f368-4d7c-8f8d-8f59d5efc338,208670,Short Term,703,566124,4,advertising,0,rural,0,other,1
+fd04a9be-10df-4847-92f5-c647e16d40a5,298166,Short Term,717,2247396,10,manufacturing,1,rural,1,unknown/none,0
+b9254a96-7185-49bb-a1a9-ab93a4adbe24,267784,Long Term,689,1638104,1,real estate,0,urban,0,other,0
+66db7b31-792a-493f-88fb-b576cd826198,430012,Short Term,723,1392662,10,real estate,1,urban,0,other,0
+86c10392-9210-4d48-a02b-49ff0beff2de,44022,Short Term,666,910727,1,advertising,0,urban,0,other,0
+9ac101a6-a72e-4ecb-ae9c-091200a88209,140888,Short Term,693,1166296,5,advertising,0,rural,0,other,1
+834b3cbc-fdb2-4084-9dfc-9cdcae945acf,260216,Long Term,664,1685547,10,construction,1,urban,1,other,0
+eb069b14-27ec-4f73-ac76-ae19d18cef36,151602,Short Term,739,1084805,3,finance,0,urban,0,building society savings,1
+93bfe4f9-4421-4add-8e13-0a84235cee68,311608,Short Term,,,4,wholesale,0,urban,0,other,1
+636578ec-e081-49f7-9fec-638d65a36050,,Short Term,737,1324452,4,technology,0,urban,0,building society savings,1
+7e2225b8-85aa-45ea-a7e5-e36bbdd6b818,220770,Short Term,705,571995,9,transport,0,rural,0,other,1
+af9daf28-5add-454c-8a37-4ea08e5593dd,176220,Short Term,717,1027235,10,retail,1,urban,1,building society savings,0
+25f9b079-a3b3-4f09-9611-dc0ea52c8d33,,Short Term,700,730588,1,transport,0,urban,0,other,0
+bde40503-813e-4548-a1fe-ca854c725cf8,130988,Short Term,,,5,construction,0,urban,0,other,1
+6cd3f9d2-fa0c-4cf3-b0ce-de0d07daebc7,,Short Term,723,898092,5,food,1,rural,1,real estate,0
+9cfde7db-c5d9-40cb-84e4-210f6b28204d,324346,Short Term,742,954370,4,wholesale,0,rural,0,other,1
+21fd514c-1391-4f7e-bdb0-40e42abffa38,,Short Term,729,594301,1,finance,3,rural,0,real estate,0
+a6f2c994-d1ca-4230-98de-8e7c0f77daf1,259138,Short Term,751,2517804,10,transport,0,urban,0,building society savings,1
+86c15f3a-1d5d-497c-8780-0d3935c0a927,32450,Short Term,711,653904,3,health,0,urban,0,building society savings,1
+46918079-5f39-4ca0-b881-fe0e13db717d,455906,Long Term,727,3562348,5,wholesale,1,rural,0,building society savings,0
+35d100c3-3fac-42fa-8344-6d1c1e8a7e5c,,Short Term,727,2299836,10,real estate,1,rural,0,real estate,0
+8aacac3d-297b-4853-b81d-4d0a86cefa73,388168,Short Term,744,2234856,10,wholesale,0,urban,0,building society savings,1
+df91f048-5e68-4921-877c-32f03638953f,,Short Term,743,2278632,4,transport,0,urban,0,other,1
+67fe8a0d-24d8-4d2c-a212-301c782b0bbb,261492,Short Term,732,463258,5,real estate,0,urban,0,unknown/none,1
+e758f401-7fae-409a-8a8f-54dc97a29e14,171776,Short Term,747,1168272,1,transport,0,rural,0,real estate,0
+917fae66-8e65-4cea-8888-c52996f6f7dd,648516,Short Term,730,1400205,6,technology,0,rural,0,building society savings,1
+e5bac7ba-ee32-48e5-a24c-4ed300c4996a,214962,Short Term,745,540607,10,wholesale,0,rural,0,unknown/none,1
+01d4703a-b407-4737-aa0b-21ae1f759cdc,448932,Short Term,738,1473317,8,construction,0,urban,0,unknown/none,1
+1d1be6af-4f27-4ff9-b1b1-093cf6c292a0,764918,Long Term,,,4,retail,0,rural,0,building society savings,1
+7090815a-263d-4b9d-9e35-06f8df9ddfd2,,Short Term,748,902538,5,agriculture,0,urban,0,building society savings,1
+994cadf0-0f3e-4ca1-9f65-171ab50b572b,447524,Short Term,741,2705486,10,agriculture,0,urban,0,real estate,1
+b99a249c-a1e8-4322-b109-6ad4c085abd8,484968,Long Term,733,1523040,8,construction,0,rural,0,other,1
+0ea38510-e4fa-4271-ab0d-cf0a005da8ff,129756,Short Term,745,1270036,1,retail,0,urban,0,unknown/none,0
+90ae759f-f8c8-41b7-ba0c-e0d1a334f568,221320,Short Term,740,860130,10,health,1,urban,1,building society savings,0
+93035ff7-abf6-4594-b4dd-311b27fdc293,66572,Short Term,747,785707,2,food,0,rural,0,real estate,1
+bf18ff24-a3f4-43a6-9681-2cc2c4aa383c,462792,Short Term,749,2207743,10,agriculture,0,rural,0,other,1
+30f76659-bfdf-42a3-9468-7deab5c7628c,222574,Short Term,,,3,construction,0,urban,0,building society savings,1
+e912ddc2-7e6b-4bdb-9789-f018e98d545f,752004,Long Term,,,10,technology,0,rural,0,unknown/none,1
+287ed51c-6930-4d09-8110-f2632691d379,445632,Long Term,680,877059,10,retail,0,rural,0,real estate,1
+be7854ab-8631-4c85-ae9d-988847bcc8bb,219054,Short Term,723,1067154,9,health,0,urban,0,unknown/none,1
+d3957d15-9fc0-40c6-ae93-a81dccb30018,,Short Term,735,799292,6,construction,0,rural,0,building society savings,1
+c0b14676-6848-4f87-b8e1-d18ebf229a98,132616,Short Term,743,1527144,10,technology,0,urban,0,building society savings,1
+c62a4a9f-659c-44bb-a0a8-ab18d2caa2e7,590986,Long Term,613,1156511,3,wholesale,0,urban,0,other,1
+97c74279-0e75-4470-b870-c2549bafe481,96800,Short Term,712,371564,3,finance,0,urban,0,building society savings,1
+80ac7202-710e-4b07-a850-dda14db27dd5,43054,Short Term,747,490713,2,agriculture,0,rural,0,building society savings,1
+b2432894-f244-4e24-a344-651609be1420,321420,Short Term,745,1542192,3,manufacturing,0,rural,0,other,1
+c5396ed9-5ba7-4839-87e4-ba89d333f9e0,88374,Short Term,,,2,finance,1,rural,1,real estate,0
+0bfa5f34-ee9c-4366-b656-08f4540b198f,483098,Long Term,698,1467978,3,real estate,0,rural,0,unknown/none,1
+529ae1a0-365c-4f30-96c9-217b8128b4e0,244398,Short Term,,,4,construction,0,rural,0,building society savings,1
+0089b9a3-1e98-40dd-9f2e-85aae2a6cb4a,423676,Short Term,,,4,construction,0,rural,0,real estate,1
+c48261ff-f75b-4e0d-acc8-d0b379f82043,,Short Term,747,4995328,2,manufacturing,0,urban,0,building society savings,1
+514e1564-cf7a-4b14-993e-f3a92c28975b,215138,Short Term,,,10,advertising,1,urban,1,building society savings,0
+0c525c1d-15ec-499e-858d-4b32a5fa8a97,782408,Short Term,,,2,manufacturing,0,rural,0,real estate,1
+33fe01b7-03a2-4b28-a52a-5614a33e5cd6,257554,Short Term,732,885096,8,construction,0,urban,0,building society savings,1
+13e096cd-097c-4b51-8c32-c57776e6d263,268752,Short Term,747,812364,3,technology,0,rural,0,building society savings,1
+f07498c8-c9ae-463f-8c8a-2736112aff77,147400,Short Term,745,2314428,4,transport,0,rural,0,unknown/none,1
+7da65710-9929-40ab-b7f5-d2c2db06adb0,263428,Short Term,,,7,finance,1,rural,1,unknown/none,0
+294d2722-9e0f-45ee-a1fd-cb60925fcc3e,444400,Short Term,,,1,transport,0,urban,0,real estate,0
+80a8c004-596d-42b3-8356-f5ce225b11dc,387288,Short Term,740,2489988,1,transport,0,urban,0,unknown/none,0
+986a9a6c-4577-46b4-8efc-79ea23c2fec5,682858,Short Term,,,10,food,0,rural,0,other,1
+f4786c56-1c62-41e7-9946-d9edf07d8491,234762,Short Term,731,784833,2,wholesale,1,urban,1,real estate,0
+a901260f-8913-4d1d-b9ae-6ac4c8ae2fda,107844,Short Term,,,8,construction,0,urban,0,other,1
+489b3039-0965-4d77-ada1-93f19f9e5e94,259754,Long Term,,,10,food,0,rural,0,other,1
+c0144ec8-abb0-447e-8637-063a93f1a6dd,264836,Long Term,703,1277066,9,technology,0,urban,0,real estate,1
+488ad40c-c9e3-4c56-8cdc-ebb49305ce25,223102,Short Term,724,1965322,4,agriculture,0,urban,0,other,1
+4f8a034b-1384-48ec-a86d-2c0a2cfe390e,748154,Short Term,668,7669160,5,advertising,2,urban,1,real estate,0
+359270ce-98da-4061-b44d-f0d8badb452e,434896,Long Term,723,1032878,8,transport,1,rural,1,other,0
+1e8b7f7b-2457-4e41-a98a-81331aa0584f,156552,Short Term,720,1840397,10,advertising,0,urban,0,other,1
+9ce42db6-b72e-47f5-a49c-74014a4a7bde,132000,Short Term,713,440895,4,agriculture,0,rural,0,real estate,1
+7a0a192b-0424-44e3-bc72-d29cda2084b6,358116,Long Term,721,1507783,3,real estate,0,urban,0,building society savings,1
+45dcf323-b32c-4162-85c3-acaa3f2319c4,224598,Short Term,,,5,wholesale,1,rural,0,other,0
+c3c81bcd-a37d-4b94-850b-ea17e0fc173b,108130,Long Term,730,672372,2,agriculture,0,urban,0,other,1
+01c3faa5-4779-415f-99a1-2fc4e18b1ef0,526460,Long Term,688,1041979,3,wholesale,0,urban,0,building society savings,1
+8b7a6700-768d-46a2-929e-3b0053404c36,608014,Short Term,709,1067686,6,food,0,rural,0,building society savings,1
+3ca9889c-d8c7-4e4d-a0d0-943eddeca023,435864,Long Term,,,9,transport,0,urban,0,unknown/none,1
+3219b489-52ab-4f25-81e7-cbd0fb6b1191,436524,Long Term,,,10,health,0,rural,0,building society savings,1
+88e65c1a-6017-4b90-b665-cab74ecc5111,288354,Long Term,618,2298696,10,food,0,urban,0,real estate,1
+3c8fc36b-be7a-4ba3-87ed-41bb85d9c82e,132462,Short Term,691,781736,10,finance,1,urban,1,unknown/none,0
+b5a178d9-ec6d-4135-9350-55627eabd014,,Short Term,747,805030,2,retail,0,rural,0,building society savings,1
+f39d6f83-07b3-4776-a3b4-5a4534f41ae9,,Short Term,716,2197901,5,transport,1,urban,1,real estate,0
+fd1688de-094b-43e1-a37c-94c0f457636d,306482,Short Term,740,1134414,10,food,0,rural,0,real estate,1
+91378b9c-ca3a-4c12-a0dc-1394d30be104,246620,Long Term,,,10,retail,0,rural,0,real estate,1
+5c206a5b-58d6-45b2-b04c-afc78fd2e626,327866,Short Term,726,1359108,8,agriculture,0,rural,0,other,1
+3b4bdfd5-04df-44b5-b4bc-a18f23d9f543,,Short Term,739,1029439,10,food,0,rural,0,other,1
+982182e0-0b3e-4129-ad3c-6fc16f4783aa,,Long Term,719,1090543,10,manufacturing,0,urban,0,real estate,1
+a19d9e8c-59ba-4947-b93c-d8a2fd69aa6e,110044,Short Term,729,1478637,5,transport,0,urban,0,unknown/none,1
+81b04d9b-7d6e-40ec-b92a-263e41bd8239,,Short Term,748,758556,5,technology,1,rural,1,real estate,0
+a02041a6-5e86-419c-b310-81dbc197a429,131560,Short Term,740,1488479,4,technology,0,rural,0,building society savings,1
+05be333d-e498-4135-86bd-71f66f22046e,757768,Long Term,739,4674475,9,technology,0,urban,0,real estate,1
+e2ff8f23-4dfe-4e67-91d6-0576fdf3d3fe,109714,Short Term,744,1629744,4,retail,0,rural,0,other,1
+bcfc5daa-1875-4b43-9959-326bf1f020f1,111980,Short Term,722,1160520,10,transport,0,rural,0,building society savings,1
+42853f5a-caf5-4ddf-aac7-756d76c3455c,248402,Short Term,,,3,finance,0,rural,0,other,1
+f28fdba7-d8f7-4dfa-ad9b-d0dc72626e0d,774246,Short Term,736,2838543,7,wholesale,0,rural,0,other,1
+95b045a4-d135-42c7-b8f5-c5e681fedfdd,130152,Short Term,,,4,transport,0,rural,0,building society savings,1
+5956b460-87f2-466a-8d49-338fdd1c313a,337436,Short Term,730,687971,1,health,0,urban,0,other,0
+86eb3c64-6f2e-4d6d-a60b-38b395d17aaa,351714,Short Term,740,837235,8,transport,0,urban,0,real estate,1
+09ee63a5-6cb1-4932-af98-24c383ed9ce5,110462,Short Term,738,1526384,5,manufacturing,0,urban,0,unknown/none,1
+005c1c39-6a07-45e1-8765-4371ab87ebed,266926,Short Term,749,922127,6,transport,0,rural,0,other,1
+9163d180-dd9a-4000-898b-8048b51b9888,48884,Short Term,,,9,construction,0,rural,0,building society savings,1
+3b667742-8ffe-490d-98c8-36a4a320be23,560956,Short Term,664,1637059,5,retail,0,rural,0,unknown/none,1
+70753e1d-62a0-4b15-af37-0b714db50afe,,Short Term,700,1489771,6,wholesale,0,rural,0,building society savings,1
+7c56471d-9264-446c-aea9-bcc97aef3912,337150,Long Term,721,1119936,6,health,0,urban,0,building society savings,1
+06bf7420-6e3a-46c5-ae3d-0886083db6e6,225082,Short Term,,,8,agriculture,0,urban,0,other,1
+e222d43d-f599-4d55-a2b4-b2cd9fd30e69,447172,Short Term,,,8,finance,0,rural,0,other,1
+1fc91e0a-c35a-4042-b5fb-b7e89f60146d,156090,Short Term,706,1872260,10,food,0,rural,0,other,1
+7fcad6e2-0549-426b-be7c-ffe7f31bdbc1,172040,Short Term,748,670985,10,agriculture,0,urban,0,other,1
+2ef213c3-9919-4851-be10-8ccacecb9a4f,150788,Short Term,739,2009326,1,real estate,0,urban,0,real estate,0
+a8b43ee6-0155-4e11-9a00-f19f832930ba,225192,Short Term,,,2,construction,0,rural,0,other,1
+a1c84742-4e01-4a1a-ada3-029775d773a7,214698,Short Term,,,4,transport,0,rural,0,building society savings,1
+acce851e-641d-4ebb-affc-45346df60602,263318,Short Term,738,707085,1,transport,0,urban,0,building society savings,0
+7b0966e6-231c-4443-a446-cd378b51ddd6,177584,Short Term,,,3,finance,1,urban,1,other,0
+c0342d1a-fe13-4ccd-85ef-47eecf2d352a,552750,Long Term,723,954750,10,technology,1,rural,0,other,0
+97ecbf72-0752-41c3-8b1e-c1502f1df5d4,,Long Term,727,1857060,10,construction,0,rural,0,real estate,1
+525a4cbf-87dc-4623-ae8e-1641af410590,762454,Short Term,695,1467484,10,health,0,urban,0,other,1
+3878d3e2-a8d8-400d-8ae2-5b460d609913,304062,Long Term,636,2344600,1,retail,0,urban,0,other,0
+adb067a4-39d8-418c-a672-837f84201faa,230362,Long Term,731,1013479,10,food,0,urban,0,other,1
+d2ce0e2b-43ae-42af-8967-2351a4d06af2,280588,Short Term,,,10,advertising,0,urban,0,real estate,1
+f1edd45a-607c-4712-b661-36435d7a753a,87428,Short Term,743,692474,1,food,0,urban,0,real estate,0
+fcb2fe66-fe21-4afc-8c91-d67273563d26,397430,Long Term,,,4,construction,0,rural,0,real estate,1
+3272e293-7cea-4e6d-9faf-be025b52f3a6,153868,Short Term,741,2183043,9,construction,0,urban,0,unknown/none,1
+f5bfeb48-47d2-49fc-b1b0-753356004cc5,,Short Term,733,1381528,10,advertising,0,urban,0,unknown/none,1
+46da16d2-4b4f-4f73-b4ae-e6a778af2ef1,132704,Short Term,746,1375391,1,advertising,0,rural,0,real estate,0
+6cdb1de1-e420-4734-84a1-e42f9a3af7da,316998,Long Term,702,836494,10,retail,0,urban,0,real estate,1
+6dc92657-2320-40cd-bbb0-515287fd4033,387904,Long Term,,,3,advertising,1,rural,1,building society savings,0
+55a84bbe-5ec0-47a3-9d29-b9c3b7708e68,121440,Short Term,731,749132,1,wholesale,0,rural,0,real estate,0
+12f7d0e9-66be-4a6a-9d1b-d1e3779da118,178640,Short Term,705,1292095,4,construction,2,rural,1,building society savings,0
+9f70483e-90ec-4f3b-a90e-21ae4ef76eb9,671836,Short Term,707,1318695,1,agriculture,0,rural,0,real estate,0
+7a8fcb05-e8d3-449e-8379-a1c6d2500d48,588962,Long Term,678,1412897,1,advertising,0,rural,0,other,0
+c0af1fb1-7c34-46ad-bc06-b742f44c7f2e,175010,Short Term,703,785973,10,transport,0,rural,0,real estate,1
+5bc78d33-49c5-4f9a-834b-e726309106b9,429440,Long Term,674,1383599,4,wholesale,0,urban,0,building society savings,1
+4b0ad1aa-c7c6-40fb-ba30-4c19c5fd9508,777084,Long Term,725,3355970,4,wholesale,0,rural,0,other,1
+a632ac98-65e0-4871-8dcb-c78deb9a1158,109582,Short Term,744,1514224,4,health,0,urban,0,building society savings,1
+9ed1cd35-8374-43b8-a683-961004917032,483604,Long Term,731,1213853,10,manufacturing,0,urban,0,other,1
+e821735e-ec9d-46d7-a8c6-4142629d7045,341308,Short Term,741,669503,4,construction,0,rural,0,real estate,1
+7aa65e91-926c-4e4d-949c-0e63a72bb5bc,152416,Short Term,747,637241,5,retail,1,rural,1,building society savings,0
+d7f9c457-1001-4f8b-bf74-24cdb67adefc,327426,Long Term,713,3676101,10,wholesale,0,rural,0,unknown/none,1
+e32dd752-4b67-4d08-8a23-3970d69c0266,78298,Short Term,,,1,technology,0,rural,0,real estate,0
+d1d30005-1f5e-4aed-aa30-e56fd3d50f88,77000,Short Term,711,674044,1,food,1,urban,1,building society savings,0
+144df0a2-30a3-4224-8d51-4a04563e2bd0,535920,Long Term,743,1253525,5,finance,0,urban,0,unknown/none,1
+4d35c0ce-d663-4b9f-a2ee-fe39e6006659,266068,Short Term,,,3,manufacturing,2,rural,1,other,0
+4b22d634-71bf-4e1e-8db9-27d9571a7e63,553916,Long Term,594,2009174,3,advertising,0,rural,0,building society savings,1
+15ada1d7-0ee1-462f-9623-2de3a0da2ea5,349932,Short Term,721,3602153,10,retail,0,rural,0,real estate,1
+2f084f8f-afbd-44d2-939d-c914fbe9b62a,134992,Short Term,728,437209,2,retail,0,urban,0,real estate,1
+6491a9a1-488c-4d4b-8fd4-cd7362f5b318,765226,Short Term,726,2643508,8,construction,0,urban,0,unknown/none,1
+dc327cb6-0187-492e-966d-6fc1882ba662,122870,Short Term,687,2548432,4,technology,0,urban,0,real estate,1
+b40f89f8-aa26-4fe6-bc2d-756562001ac2,218702,Long Term,717,576992,1,construction,0,urban,0,unknown/none,0
+98abffdc-c2d7-4416-8893-b081628d8767,,Short Term,734,2178787,10,manufacturing,1,rural,1,building society savings,0
+f81be240-d5ea-440b-a95f-199a845d66e8,131538,Short Term,,,3,real estate,0,rural,0,unknown/none,1
+d3a48c94-0848-4d92-a3f2-143d3ee25750,655314,Short Term,,,10,technology,0,rural,0,other,1
+7393cb63-a4db-42cb-931f-d909baef6381,77814,Short Term,748,529967,2,technology,1,rural,0,other,0
+89ea7100-67e2-404d-a708-e2d8593122b4,177628,Short Term,,,4,wholesale,0,rural,0,real estate,1
+2c84d7cb-d702-4479-bc5b-7cf5a9f0e1c8,262174,Long Term,703,935655,3,food,0,urban,0,other,1
+1838844f-8c15-49c0-a5e5-6bad4e5d30ef,,Short Term,726,622744,4,wholesale,0,rural,0,unknown/none,1
+fdb1f63e-b46d-437f-bae6-062b7ed14cdd,148214,Short Term,747,911487,5,technology,0,urban,0,real estate,1
+b4a75c42-b909-4307-ac0f-09cf1b186eea,,Short Term,745,1620814,6,construction,0,rural,0,other,1
+3d0ca2af-8ce7-45cf-b804-dc315671e47c,778712,Long Term,688,3842940,10,food,0,rural,0,real estate,1
+b64a9da6-0107-4012-bba3-2057ae6efbb2,215776,Short Term,729,1583992,10,agriculture,0,rural,0,building society savings,1
+88883a49-e435-445b-939a-167ca08d47f2,755062,Long Term,681,1769983,7,health,0,urban,0,building society savings,1
+260809c5-f100-49d1-a1c9-a73e1f02bbff,215974,Short Term,716,1585455,5,health,1,urban,1,real estate,0
+ab2e62f5-cdde-4939-a971-7e334e0ab26c,328548,Long Term,704,1172813,8,retail,0,rural,0,other,1
+c08b3ba3-53f4-4d42-9cfb-df4382418e02,397738,Short Term,736,1622106,4,food,0,urban,0,unknown/none,1
+4bfbef83-43cb-4f97-83d8-b8fe05fd4a57,347996,Long Term,700,686945,1,food,0,urban,0,other,0
+f9dfd867-61a1-469b-840e-71d0c4a2e631,,Short Term,743,788101,5,agriculture,0,urban,0,real estate,1
+919ec1ef-5fe8-465a-8b3e-8442108780b6,432520,Short Term,745,1029477,10,manufacturing,0,rural,0,unknown/none,1
+cdd7fa9b-100c-46e4-807c-5fd55a682c95,776864,Long Term,724,1380179,7,advertising,0,rural,0,real estate,1
+af703c39-6da8-4954-afb0-2641eefba352,335082,Short Term,721,1215430,1,manufacturing,0,urban,0,real estate,0
+2b1de31e-8f93-40ce-b05d-d4628b1d9fe2,86988,Short Term,,,6,real estate,0,urban,0,other,1
+71708fcd-2fd3-4452-b9c1-11dd2a764751,220286,Short Term,734,1731242,1,technology,0,urban,0,other,0
+485af707-d563-452c-b5f0-d6e8d16961ca,,Short Term,748,1022333,9,retail,0,urban,0,building society savings,1
+fe8387b1-9a58-4774-b935-23871e1e5450,329142,Short Term,,,3,wholesale,0,rural,0,other,1
+058cea79-8bb7-4ac1-9b7d-c698263e3622,329054,Short Term,710,1136694,10,technology,0,rural,0,other,1
+040a5b08-32b2-40db-a2bd-09a0d85e2c75,231264,Long Term,656,433371,10,wholesale,0,rural,0,building society savings,1
+d39c970b-ed77-43a5-9bdc-672aa33cbf39,,Short Term,691,1680417,2,agriculture,0,rural,0,other,1
+2d43639a-7c09-4b47-86f4-359d631fb58b,61358,Short Term,726,756884,10,retail,0,urban,0,other,1
+96cdc862-e6d3-4aad-959c-92ae79b4c843,218394,Short Term,,,9,finance,0,urban,0,other,1
+d3e50309-3f24-4b9a-bd63-05296473b421,,Short Term,744,2044647,10,food,0,rural,0,building society savings,1
+5409669b-4de7-493b-9de0-1a4734a7abaa,,Long Term,724,1360343,10,manufacturing,1,rural,1,real estate,0
+ecf9e047-4fad-4208-a3aa-30499d6dbb01,220396,Long Term,680,1903420,2,food,0,urban,0,other,1
+45b57fc5-b081-4653-a862-9671b847575f,129074,Short Term,,,3,technology,0,urban,0,building society savings,1
+1af5d57e-5f41-4179-8cd0-0861fca3cedd,,Short Term,729,662473,5,wholesale,0,rural,0,other,1
+9434bb58-ec87-4e87-9177-25b9ea9c3b58,,Short Term,721,777024,6,real estate,1,rural,1,building society savings,0
+31d33215-6af6-4b2b-954f-5d626138fa21,353782,Short Term,646,1524313,10,agriculture,0,urban,0,other,1
+a510c793-480a-4511-bce4-fef730ce2a10,195712,Short Term,,,5,retail,0,rural,0,real estate,1
+43882ab3-c3a3-4d84-91c6-811ddd309f6f,,Short Term,745,491036,2,finance,1,urban,1,building society savings,0
+50766172-6e2a-48c2-8d3d-40140b28a43e,,Long Term,727,1914364,10,manufacturing,0,urban,0,unknown/none,1
+cd31f1ff-1388-49de-9c8e-624292735830,32230,Short Term,,,2,wholesale,1,rural,0,other,0
+7fc3ea13-7274-446a-b5d0-a82980065b03,356444,Long Term,713,1269808,10,construction,0,urban,0,unknown/none,1
+2a336913-4dc5-4657-be02-6e6c96aef479,111034,Short Term,699,348707,1,food,0,urban,0,building society savings,0
+0e08ccde-bc5d-4523-8186-93ebf58083ac,389620,Short Term,743,985530,1,manufacturing,0,urban,0,real estate,0
+6019769e-7c0e-464c-bfb5-ffb2846a0e2c,782320,Long Term,614,2374392,10,finance,0,rural,0,other,1
+78d2100e-deb0-46af-b422-98b4ce2c301f,523292,Long Term,713,1788945,6,wholesale,0,rural,0,other,1
+db287e7b-2d6e-438b-a193-9aeb676ae4c1,217624,Short Term,,,6,technology,0,urban,0,unknown/none,1
+98fbe987-4102-4f0e-91c3-19f7e80e1f08,322740,Short Term,,,10,agriculture,1,rural,1,other,0
+121da01c-1787-44ec-9e7e-97051b47b465,268620,Short Term,740,5316447,10,food,0,urban,0,other,1
+aca451fc-db23-4d9b-abff-0da9115648a9,,Short Term,736,494247,8,technology,0,urban,0,other,1
+41e70412-d206-4b83-8fe8-fc402a235a04,215622,Short Term,743,1899430,8,health,0,rural,0,unknown/none,1
+9449d282-eb22-4e87-90f6-8b1642d47375,222112,Short Term,741,1822328,10,construction,0,rural,0,real estate,1
+75b6f4dd-b3c6-4220-969f-54c372c22e1f,65714,Short Term,,,4,technology,0,rural,0,other,1
+ca09fedb-53b7-445c-be75-58eeaf0317a5,660924,Long Term,,,10,food,0,urban,0,real estate,1
+be8343f8-4c74-4450-85ee-ffd3dab35b8a,429572,Long Term,700,1597577,1,food,0,rural,0,building society savings,0
+a33d1bf8-f73d-4858-bc29-c45a5c5b02a9,484484,Short Term,,,3,construction,0,rural,0,building society savings,1
+f9c24e89-c8b5-450f-8841-fcd9cec7fa74,393382,Short Term,,,4,wholesale,0,rural,0,unknown/none,1
+fce04ba9-317f-4df7-a5f9-a1bd69e006d3,318538,Short Term,749,1623892,8,transport,0,urban,0,other,1
+9b89e440-9e23-4e14-ae4d-5bcd1c45aece,135014,Short Term,741,1865591,2,advertising,0,urban,0,real estate,1
+ed13f60c-50b4-42f6-a7b0-e3dc666e645a,333036,Short Term,727,1629858,10,real estate,0,urban,0,building society savings,1
+dc77eba0-0429-44bb-87e0-88ce3d7dc6d3,351076,Long Term,716,758024,6,health,1,rural,1,building society savings,0
+1030d083-c174-4051-b20c-af7d8dacbaf9,,Short Term,729,523925,1,food,0,rural,0,building society savings,0
+dc696953-fa56-4593-9a55-0b3a15c837b2,209462,Long Term,669,1828009,4,manufacturing,1,urban,1,other,0
+16acb987-ed6d-4981-bccf-bc996c633135,,Short Term,741,1839048,1,health,0,rural,0,building society savings,0
+4cd8f95a-1974-4201-9bb3-c4407dae8b2b,221496,Short Term,728,956460,10,construction,0,urban,0,other,1
+404b9a82-1fb5-4fe8-9e9c-a1bfe38b2c7c,60368,Short Term,,,1,food,0,rural,0,real estate,0
+358f1ac4-3cee-4790-becf-462f7c01e5de,329120,Long Term,,,2,advertising,0,urban,0,other,1
+8ce48a9b-f9fe-4eb5-b400-220822b8660e,54230,Short Term,742,842859,4,construction,0,rural,0,other,1
+0ae12723-f0b0-42a7-aa49-a8253d1d3697,64592,Short Term,686,1299581,3,finance,0,urban,0,other,1
+bef198dc-af56-4a47-bbbf-e2164e0fd9ad,152592,Short Term,741,805790,8,finance,0,urban,0,real estate,1
+5a23a6b1-6292-47d4-a8f0-6743c97eb370,322520,Short Term,709,1648896,10,health,0,urban,0,real estate,1
+3ffb0266-65fa-410d-a65a-569ac504ec01,111914,Short Term,701,1063183,9,technology,1,rural,1,unknown/none,0
+b9780ccd-cae9-4727-a002-1549fc0ac424,237116,Short Term,721,655310,1,food,0,rural,0,unknown/none,0
+76a0e6fc-cc80-4977-ac31-9248ece234b3,68112,Short Term,,,2,technology,0,rural,0,real estate,1
+1b643740-54c8-493f-8bfe-b2d1645c3a19,341550,Short Term,682,823612,3,real estate,0,rural,0,unknown/none,1
+4237e26b-6a82-4b5a-8906-51db1c66718c,671506,Short Term,706,1784423,10,health,0,urban,0,building society savings,1
+562b632e-fcc1-438a-9748-951e1d9867ce,279862,Short Term,680,929575,1,technology,0,rural,0,unknown/none,0
+7a4cca06-82cf-4231-a48a-fc9f69262242,116072,Short Term,,,2,real estate,0,urban,0,building society savings,1
+c81a3693-b832-4a9a-bec0-722932d0ea54,333212,Long Term,692,959215,10,construction,0,rural,0,unknown/none,1
+240579ce-b0d9-4d5d-9681-c9e38d7c638a,,Short Term,709,1817996,7,manufacturing,0,urban,0,other,1
+2b8ce339-04fe-4247-b357-fc1ea38eccf7,208670,Short Term,720,575130,1,food,0,urban,0,building society savings,0
+55df5dac-6c24-4b89-ba00-41b1d89c2258,219692,Short Term,734,1413524,9,real estate,1,rural,1,building society savings,0
+cd840ed8-f67f-43da-98b8-228af20f19c6,,Short Term,742,5972460,10,food,0,urban,0,real estate,1
+0de9ae4f-0669-45d4-97ad-5a71425ac218,707872,Long Term,713,2330749,10,agriculture,0,urban,0,other,1
+a82ed54f-4dcb-4dea-aeaa-1676af5f6d88,77286,Short Term,697,1964429,10,advertising,0,rural,0,real estate,1
+ceef9374-a4c3-4518-acf9-2a2fd38768ba,303380,Short Term,,,10,manufacturing,0,urban,0,other,1
+ad4cef79-7205-4b52-b573-ed285926e547,246774,Short Term,746,968715,2,transport,0,urban,0,building society savings,1
+de78587a-56e8-495c-9a23-a2921b1f803d,265694,Short Term,739,655633,10,food,0,rural,0,real estate,1
+858a7ef5-165d-4667-84ea-6d2e8bfedc15,265738,Short Term,,,9,manufacturing,1,urban,1,building society savings,0
+644c8a1d-3e59-4cbf-9fc1-238399b28477,288420,Long Term,687,1286490,2,retail,0,rural,0,other,1
+0021712b-ea5a-4478-80e7-4789321f830a,787336,Long Term,,,8,wholesale,0,urban,0,other,1
+3463ebf8-6567-4a00-a378-51cd39c932b1,271700,Short Term,696,675298,7,food,0,urban,0,other,1
+8f6929dc-88b1-4b8c-a87f-e1e4457c60dd,449768,Short Term,737,2913270,3,agriculture,0,rural,0,unknown/none,1
+0fd78fa8-8d1b-4c3d-a3f1-4ce161b1a2da,,Short Term,700,1663906,4,transport,3,rural,0,unknown/none,0
+823293b1-6fea-4db4-b406-2d68e574715b,222684,Short Term,707,1634703,10,wholesale,0,urban,0,building society savings,1
+780a5a3e-61e6-4473-b00d-a4109f2361a6,196196,Short Term,739,378632,1,advertising,0,rural,0,building society savings,0
+7d91c943-f6f8-45e9-aedc-cdcddf7401dd,219538,Short Term,751,1611618,10,construction,0,urban,0,unknown/none,1
+2a77ea34-2350-483d-a390-c76268532c1c,297902,Short Term,713,808317,8,wholesale,0,rural,0,building society savings,1
+8d5a2ca0-943a-46a9-8b29-cffee22436c4,394548,Short Term,,,10,finance,0,rural,0,building society savings,1
+9f62fff8-b67f-4ba1-be06-1c9af63cfe52,322300,Short Term,733,891480,2,food,0,rural,0,real estate,1
+99448ea6-a7c8-4977-a08c-69bc343985a7,208604,Short Term,,,2,construction,0,rural,0,real estate,1
+f7711fe4-6384-4ad3-8604-fb8ebf0c527c,,Short Term,738,1981529,10,transport,0,rural,0,building society savings,1
+839089ec-b35d-460c-b623-da93ffb39960,407132,Long Term,668,1233765,3,real estate,0,urban,0,unknown/none,1
+7fff04e9-478b-4da3-acfd-6a5c0f949ddb,82610,Short Term,,,1,transport,0,rural,0,real estate,0
+d103a2d9-3534-4715-b33d-458f45697a66,357588,Short Term,739,1374650,2,advertising,0,urban,0,real estate,1
+e6446832-189d-488a-a695-a9589b523962,128942,Short Term,712,1633202,10,construction,0,rural,0,unknown/none,1
+a77fcfef-91ab-400b-89ec-4b18e66301be,223168,Short Term,707,819128,2,transport,0,urban,0,other,1
+25647df0-688c-4181-948b-d2d6d3277e1c,214940,Short Term,727,1095217,5,transport,0,rural,0,other,1
+3f8e5612-feb2-4743-8b6a-7beb018ad41c,698742,Long Term,,,8,health,0,rural,0,unknown/none,1
+d2e7d8bf-d1ad-40b3-9d17-45e0aa8fcb9b,174306,Short Term,,,1,transport,0,rural,0,other,0
+53049afb-6bac-44f9-91b4-ba3f7e263920,434016,Short Term,,,10,real estate,0,urban,0,other,1
+d387058f-3b39-48ab-9eea-10e3c70ede07,393668,Short Term,,,10,transport,0,urban,0,other,1
+cf1765cc-be60-4fe6-8b18-249245fa037a,216128,Short Term,715,1175929,5,agriculture,2,rural,1,building society savings,0
+f8e19364-1e97-4ceb-9054-1145091a633f,246202,Short Term,720,1404879,8,manufacturing,1,urban,1,real estate,0
+a0bbfba5-c0a0-44b9-9ac2-e6404bd6607b,105798,Short Term,722,628197,1,construction,1,urban,1,real estate,0
+b3b7b6af-f415-41bc-879c-45b4d8566c36,66638,Short Term,,,1,finance,0,rural,0,real estate,0
+af81a0bf-85b7-42b3-9e6c-bb3f4c5f89a3,,Short Term,741,1028698,7,wholesale,0,urban,0,real estate,1
+7420fe92-229c-4643-a3ad-4d12ce7c1f6d,423214,Short Term,718,1186949,1,wholesale,0,rural,0,building society savings,0
+5e255085-de6f-4e39-b35e-c1a86231d357,188298,Short Term,723,1281778,4,retail,0,urban,0,other,1
+106c85d5-cdf6-4323-99d3-22d993aaecd0,111122,Short Term,693,767752,7,real estate,0,rural,0,unknown/none,1
+2158463f-c6e7-4985-86ea-c38e06b924f7,259270,Short Term,741,1306193,10,manufacturing,0,rural,0,real estate,1
+064d7dae-46be-46c8-b635-459f33cc3b3a,178948,Short Term,740,1352344,3,finance,0,urban,0,other,1
+e6f03157-2859-413f-b8e4-039707805c4b,217338,Short Term,704,2721674,10,retail,1,rural,1,real estate,0
+f04a5152-3154-426b-8647-4f9ce778f861,263362,Long Term,731,614118,2,wholesale,0,rural,0,real estate,1
+057a4126-5b06-4b0a-8d3e-37c272cd2003,395846,Short Term,751,3228708,6,retail,0,urban,0,other,1
+c49e61bf-8cee-4519-9de4-84ca2499a87c,560010,Long Term,719,5701140,4,construction,0,urban,0,real estate,1
+0f002804-4b3c-4ab3-a5ad-331f1548ca2c,287408,Short Term,699,992845,6,food,0,rural,0,unknown/none,1
+1a445b1c-32a7-49c6-82a0-3e9742e02635,623436,Short Term,,,2,finance,0,urban,0,other,1
+d5a5f0e6-8396-4647-be2b-62765db34da4,259820,Short Term,,,1,technology,1,urban,1,other,0
+b6c081e1-9fd8-41c2-ae40-166c03119b91,107998,Short Term,750,634182,2,agriculture,0,urban,0,unknown/none,1
+fb5343f3-f71f-470e-ac14-789b902c6a88,450912,Long Term,717,1168272,4,construction,0,urban,0,other,1
+cc698d70-1b24-4b4a-b886-e835a29e22a3,225808,Short Term,,,5,construction,0,rural,0,other,1
+716d4bf3-6479-428d-9979-904aaf7a453c,182028,Short Term,723,655025,5,health,0,rural,0,real estate,1
+00fa638b-e857-458f-a849-f76e374cc2c3,448184,Short Term,,,5,health,0,rural,0,building society savings,1
+379e73c5-b1e9-4d58-b345-84f54fe43385,219604,Short Term,,,1,real estate,0,rural,0,real estate,0
+1a7a407e-f91c-44ea-80ed-f5f4f890a394,,Short Term,723,9057984,2,technology,0,urban,0,building society savings,1
+f4649e39-0bda-4aee-a665-18d1ea6cf9e7,214764,Short Term,730,983041,3,retail,0,rural,0,building society savings,1
+110c1914-53e0-4639-8773-32d128ca6116,320078,Short Term,,,1,food,0,urban,0,other,0
+e6664f24-0b69-45aa-9f50-95941f12cd9f,175956,Short Term,749,664867,2,wholesale,0,rural,0,real estate,1
+3535c73e-af3a-458a-90d6-0ba0d7a92f27,400400,Short Term,719,1152654,10,health,0,rural,0,other,1
+ef0bd291-121a-4eeb-974e-ac80930ccf00,628584,Long Term,692,1217102,5,finance,0,urban,0,other,1
+021cfe48-3ce5-4602-ad2b-c21f1473d195,626362,Long Term,,,2,food,0,rural,0,building society savings,1
+bd94000f-f10c-4f88-a464-bdc439f69fc2,540364,Long Term,723,3387244,5,transport,0,rural,0,other,1
+15e0d842-f101-40a2-830a-ac58c51457a1,162074,Short Term,712,583224,1,advertising,0,rural,0,real estate,0
+d37a7231-7dce-491a-bdb6-4688d55711e1,345136,Short Term,703,1117770,2,retail,0,urban,0,other,1
+19941661-98e2-4800-93c9-a0e92057c813,266794,Long Term,686,576042,1,wholesale,0,urban,0,unknown/none,0
+2f2aa20b-d173-4318-9435-85de7eee4f7f,446160,Long Term,741,1541280,10,construction,0,urban,0,unknown/none,1
+a645ef75-f106-4530-aab5-24ff886e55a1,347028,Short Term,743,1685889,4,food,1,rural,1,real estate,0
+3c31ad7c-1a67-40c3-b071-62c404235918,267454,Short Term,,,4,finance,0,urban,0,unknown/none,1
+5cf58471-de79-4ce3-9545-6ca8086dc2e7,220022,Short Term,,,10,finance,0,urban,0,real estate,0
+d5e9db4d-98d3-49c6-98cb-c4feca082127,283426,Long Term,738,1355688,10,wholesale,0,urban,0,building society savings,1
+8ce9f4e4-0044-4779-a4c5-66552927d0ab,270556,Short Term,724,1752408,10,health,0,rural,0,other,1
+631347a6-b027-4f5f-8363-594b79aff617,322476,Short Term,711,1262550,1,health,0,urban,0,real estate,0
+756777d0-42b5-4e33-bd4d-58bf1d13f644,441364,Short Term,691,1315066,10,construction,0,rural,0,building society savings,1
+bfcb3eac-c8d9-4d6f-a002-0c9a3bf8c685,,Short Term,726,1488289,7,construction,1,urban,1,unknown/none,0
+7fd1cdc8-2eff-400d-a705-1602bdbbc87d,247786,Short Term,748,1361787,2,wholesale,0,rural,0,building society savings,1
+89d77bcf-9910-477d-a755-0dd046cb35ff,334070,Short Term,704,927523,10,real estate,0,rural,0,real estate,1
+6e114107-2576-4a5b-91af-a7669333eca3,54824,Long Term,747,830813,10,health,0,rural,0,building society savings,1
+e17ed1a4-1a75-43fa-bffb-be294a3f77c4,,Long Term,704,1139658,7,finance,0,urban,0,real estate,1
+7e90afe4-c090-43ac-b39e-90eed8c2d2fe,403480,Short Term,713,2710274,10,real estate,0,rural,0,other,1
+206609fa-9e43-4fcf-a0f9-4e7103eecc4c,105468,Short Term,738,702088,4,food,0,rural,0,real estate,1
+6a907e9a-3ced-4f62-adec-6384a589b916,,Long Term,612,2279544,3,transport,0,urban,0,real estate,1
+2ae52dc5-742e-4377-b498-2070e163aa1d,137852,Short Term,732,1395227,10,food,0,rural,0,unknown/none,1
+78b23697-9228-4ef6-a770-478c0171b764,131274,Short Term,723,543837,4,agriculture,0,urban,0,other,1
+8f149fa9-23f6-4453-a82c-20ae5ffb6e95,182116,Short Term,,,10,advertising,0,rural,0,building society savings,1
+3c4686b9-b1f9-4afe-8f92-613aefa52e85,46156,Short Term,654,1640745,6,wholesale,0,urban,0,unknown/none,1
+51a7e7bb-5520-48f9-a1b8-9813e8107db3,67496,Short Term,725,582825,10,health,0,urban,0,real estate,1
+a647389d-fee2-463d-86c1-c7b8e9be8d27,138380,Short Term,735,485792,1,transport,0,rural,0,other,0
+d2592b4e-f032-42c6-8fdf-3023fa3c9ce7,172436,Short Term,740,1340222,7,manufacturing,7,rural,3,real estate,0
+67e93ee0-bb2f-4a16-9d06-6600d084baae,788326,Short Term,,,10,agriculture,0,rural,0,other,1
+5fdf69f6-b95f-4247-afe5-314efffc8bee,336732,Short Term,738,1970072,10,food,0,urban,0,other,1
+f589bab3-3e5c-47aa-b3c5-8617f9098254,107932,Short Term,735,1211782,6,technology,0,rural,0,real estate,1
+8075f523-a006-49d5-bbfb-347cba8b4351,346060,Long Term,711,765833,10,transport,1,urban,1,real estate,0
+1bdb2782-30ef-45e4-b936-48fbc200b5ac,217888,Short Term,735,1223144,8,construction,0,urban,0,real estate,1
+b756e180-7ba2-4721-a9cc-534c5bb642d2,,Short Term,738,934800,10,advertising,0,rural,0,building society savings,1
+d3b5f171-9216-438d-96e2-5336c3204798,,Short Term,745,681226,2,transport,0,urban,0,real estate,1
+86242eec-2c69-448a-93c5-c7d128eba38a,216524,Long Term,688,934990,4,agriculture,0,urban,0,building society savings,1
+579a0930-b731-47c4-afb0-36ee23e772eb,261448,Long Term,719,940785,1,retail,0,urban,0,other,0
+8b9f778b-c3a4-4d51-9940-6ae35bc4b7db,430804,Long Term,738,1130120,10,manufacturing,0,urban,0,other,1
+4e974240-4b7e-46ea-9d3c-2702989f18be,163878,Short Term,741,1439402,7,advertising,0,urban,0,unknown/none,1
+a3e9cb3b-5724-402c-9d6f-cf616d9b7b35,227546,Short Term,709,561450,6,transport,4,urban,1,unknown/none,0
+3b5dda29-a465-4715-87f0-86d6e7dc3e12,560516,Short Term,652,1374897,4,technology,0,rural,0,building society savings,1
+a91c4290-8a2d-4cdd-bab9-60788dc14eb2,470316,Long Term,719,2393487,2,transport,0,rural,0,other,1
+01057261-5054-4448-b725-90ba98b82152,190784,Short Term,704,711455,6,health,0,urban,0,building society savings,1
+2ad6f371-7797-4609-92af-23eb4a30a4bf,395846,Long Term,725,829597,1,agriculture,1,urban,1,unknown/none,0
+c3e3bd3e-2841-41a2-8ed8-ace9f6f13a4a,450120,Long Term,673,981578,10,transport,0,urban,0,unknown/none,1
+1d24a8f4-066d-4289-a245-176061d974b5,,Long Term,725,1698885,7,agriculture,0,rural,0,building society savings,1
+11d42688-d6c7-4f1d-b32d-547d432050b8,399014,Short Term,722,2909945,2,wholesale,0,urban,0,building society savings,1
+29c9b790-ef61-4a5f-9e78-dd614323f044,116710,Short Term,,,9,technology,0,rural,0,building society savings,1
+d3008cbd-e499-4080-813b-629b5d6695ca,270402,Long Term,690,1044373,10,finance,0,rural,0,other,1
+40e2a136-e855-411c-877a-acff6f143d7c,129184,Short Term,735,948366,1,real estate,0,rural,0,real estate,0
+97514ea0-93a1-4b44-8c87-8852571f16a6,247500,Long Term,664,1347955,7,health,0,rural,0,unknown/none,1
+1dabcfda-b1a1-4f89-b858-96d9ccab77a5,,Short Term,702,1385480,2,finance,0,rural,0,real estate,1
+666c0266-76b1-4f00-934e-6047498e61be,396792,Long Term,669,875748,6,finance,0,rural,0,building society savings,1
+173c7174-1d5e-4e59-bdee-354b32a171c5,109582,Short Term,744,813903,2,real estate,0,urban,0,other,1
+21ae217c-b415-4102-b033-9e99c04cb2e5,,Long Term,739,1461689,10,real estate,0,urban,0,real estate,1
+ab2514e8-3bd4-4d64-8fd0-40533b132227,264924,Short Term,,,2,technology,0,rural,0,other,1
+719e7e4b-b7e7-4967-9b89-f833d81ccf0f,391314,Short Term,735,762660,1,advertising,0,rural,0,real estate,0
+a76f88e5-205d-4172-a260-a02d31dc975c,520454,Long Term,716,1323825,5,manufacturing,0,urban,0,real estate,1
+fd7eb7a2-a39e-4f4e-b5ee-dec42f3a537a,330792,Long Term,733,1885522,10,agriculture,1,rural,1,unknown/none,0
+ab685182-eb88-49b6-aee0-cfb49d50288b,,Short Term,748,1576411,5,advertising,0,rural,0,real estate,1
+4891a653-11b6-444b-82ac-e46db980cf91,,Short Term,746,1580116,6,wholesale,1,urban,1,real estate,0
+c322611d-f268-4a44-82a6-8eec45ae92fa,222530,Short Term,690,595783,2,transport,0,urban,0,real estate,1
+13dca6a4-d993-4e0e-bafe-9efe877b8669,446820,Short Term,715,1254228,1,advertising,0,rural,0,other,0
+c5b34502-10c1-46e6-b4fb-bfd3ecb95d1e,79530,Short Term,691,953990,7,construction,0,rural,0,other,1
+823589bf-3911-4be5-8a44-368e8db077c9,262988,Short Term,721,794960,3,wholesale,0,urban,0,unknown/none,1
+676a91e7-f978-4897-857d-b0619a354c08,110814,Short Term,742,459325,4,food,0,rural,0,building society savings,1
+862cb1c6-cf59-4108-9ade-3edbd57ac59e,385308,Long Term,678,1823715,6,construction,0,rural,0,real estate,1
+85338b3c-6715-4eca-81f4-44540110f1cb,158620,Short Term,694,475665,5,retail,0,urban,0,other,1
+510490c7-0e98-47f0-b353-2ad4711c012c,768856,Long Term,,,1,retail,0,rural,0,other,0
+817f26dc-b23c-44ca-a4e8-aa076cb7ea05,146366,Short Term,724,816753,4,agriculture,0,rural,0,real estate,1
+018d5599-8c09-4c98-95ab-6d450dc6e416,435512,Short Term,745,1128372,10,wholesale,0,urban,0,real estate,1
+7f97ade2-4720-42c6-ab28-9ebcea043cf2,130944,Short Term,720,584288,1,health,0,rural,0,other,0
+1cd3aa7c-4376-493b-acad-cb29ebcd9257,134684,Short Term,735,579899,4,manufacturing,0,urban,0,building society savings,1
+409c81f2-fbf9-4636-a734-f67e176f6589,352220,Short Term,750,2129273,8,technology,0,urban,0,real estate,1
+f6af927e-8cf8-4f51-bf42-bc3a84e880e0,133012,Long Term,717,1194606,7,finance,0,urban,0,other,1
+9d1f6f0e-a3ee-4e39-a6e5-727390babdba,260260,Long Term,730,1236197,7,advertising,0,rural,0,other,1
+48c25a2a-a932-4080-9709-81c783151fe1,769230,Long Term,691,2799707,1,technology,0,rural,0,real estate,0
+64c6b07b-c8d7-47a2-bd19-4a698e6d0863,360052,Short Term,719,721582,10,technology,0,urban,0,other,1
+4509ab8b-fda5-422c-8e71-b06684f71931,524524,Short Term,,,5,finance,0,rural,0,unknown/none,1
+5d745ebc-1eb1-4a7a-a14d-c71693e03fe6,259028,Long Term,698,2469753,1,construction,0,urban,0,unknown/none,0
+b470a9ba-f292-40c8-8930-bc030ef950d7,267542,Short Term,746,1578881,1,agriculture,0,urban,0,other,0
+daa1073c-1549-47a6-9613-7e119e969348,174438,Short Term,,,10,construction,0,urban,0,other,1
+1f0bd8c2-ac0e-4298-99cf-a4d5833316a3,249326,Short Term,,,5,retail,0,urban,0,other,1
+06e9516e-b22b-4659-80ac-aad5e871f195,221276,Short Term,743,1299486,5,wholesale,1,urban,1,other,0
+362ee5ad-b494-4847-a3b0-f9cd5ddcd2c0,222420,Short Term,712,2723840,5,construction,0,rural,0,real estate,1
+f4c3ce6e-3da2-49d1-8ff0-aeb12bb4a8ce,402578,Short Term,,,10,finance,0,rural,0,other,1
+92791a70-fc97-460a-aa6e-ad0b0a0e68d3,280852,Short Term,738,1585930,10,transport,0,rural,0,other,1
+41df3f35-84b1-40f8-908c-35c591d15f2c,,Short Term,723,905521,6,advertising,1,rural,1,real estate,0
+7e9d3fa1-b9d6-4869-9c37-26a99d3a1143,386694,Short Term,740,1726910,10,food,0,rural,0,building society savings,1
+7fbe8108-cfc6-4925-8021-e952321915e0,351692,Short Term,,,5,real estate,0,urban,0,real estate,1
+3fa09eea-e901-4afb-a78d-adb917a38a45,224092,Short Term,721,696730,4,retail,0,urban,0,building society savings,1
+c0979432-6b2b-47fb-88be-290b2e0d3010,65912,Short Term,732,948575,1,technology,0,urban,0,real estate,0
+8e6658e5-4eec-4397-ba60-dd279eb6f448,177144,Short Term,675,705394,1,transport,0,urban,0,real estate,0
+ab4e245b-381d-4260-acff-8a6a58ba94c0,94908,Short Term,738,768170,7,real estate,0,rural,0,other,1
+4ab01738-05af-4ace-881e-0a435c452a47,157234,Short Term,,,6,retail,0,rural,0,building society savings,1
+6e89cd20-19f4-4bc7-9e70-590c34a9acdd,294316,Short Term,,,1,transport,0,urban,0,other,0
+66124403-409b-42e0-b79c-61187746de84,220770,Short Term,741,591071,7,wholesale,0,rural,0,other,1
+3a749d28-13c8-444f-af8c-788d2d944eb5,568414,Long Term,717,1116744,3,retail,0,urban,0,real estate,1
+9e815288-f863-4b4c-bc31-2ef070869c5e,380512,Short Term,728,948594,8,real estate,0,rural,0,real estate,1
+b071d166-881d-4f1e-bffc-c5b29ed2622d,177012,Short Term,,,4,advertising,0,urban,0,real estate,1
+1376430c-3aec-4f17-acb5-c1b4626fbf94,227722,Short Term,673,578892,10,construction,0,urban,0,building society savings,1
+cc20dd6b-0229-40cd-8485-610a36c8a246,180290,Short Term,741,1297548,4,agriculture,1,urban,1,building society savings,0
+b0e29963-ee8d-4a22-ae6e-15c7fe1407db,145552,Short Term,,,5,health,0,urban,0,unknown/none,1
+cf0f4b83-0179-4a41-949c-439f147ac49c,,Short Term,716,4379215,1,manufacturing,0,rural,0,unknown/none,0
+53577bb1-e451-4e5e-851c-fdaedb667c66,218614,Short Term,,,3,real estate,0,rural,0,other,1
+bde31ca6-3e9e-4b8e-8f34-c94530d0ca37,,Short Term,745,1774676,1,health,0,rural,0,real estate,0
+082a4886-264f-4a5e-a563-34bf467a5487,,Long Term,668,624929,4,transport,0,rural,0,building society savings,1
+ec96b122-c216-439b-833a-3f683c587469,391314,Short Term,,,5,construction,0,rural,0,unknown/none,1
+0b7ab558-9e37-4bd2-81e1-55a099fdb4e8,134882,Short Term,738,990223,5,retail,0,urban,0,building society savings,1
+eb0579cb-0c08-4b7b-b1ec-f7ba5ef1e95b,79772,Short Term,703,1569381,10,technology,1,rural,1,real estate,0
+a98bbd37-206d-4f81-a644-dacac1b23e51,216942,Short Term,735,599545,10,technology,1,urban,1,real estate,0
+48e17c7f-648f-4110-b8bf-cb6c55934cee,64856,Short Term,722,1306991,10,retail,0,urban,0,other,1
+d14fe087-6ea3-4ed4-80dc-a2fde0fc5389,171644,Short Term,,,8,retail,0,urban,0,real estate,1
+9b2e47fe-07db-4d5f-9ca0-116e650496d3,195206,Short Term,750,1015588,4,agriculture,0,rural,0,real estate,1
+70d52005-13e3-44e3-8942-f9ba6d920912,312422,Short Term,,,7,transport,0,urban,0,real estate,1
+b913a3cc-c4c4-461f-8553-7ac2a88410e0,467632,Long Term,726,1148436,10,advertising,0,rural,0,other,1
+51d762c9-4b63-4926-ac1d-64eba303d6ef,221826,Short Term,,,7,food,0,rural,0,other,1
+40f81e7d-9d14-4bf6-bfc4-a19448221d89,43714,Short Term,,,6,technology,0,urban,0,building society savings,1
+fb366861-2a26-4a0c-80c4-8fdae26e9099,555060,Short Term,699,1143610,10,advertising,0,rural,0,building society savings,1
+b4689e6e-45f0-42ab-9ff8-61dc0b02f3f8,117722,Short Term,,,1,retail,0,urban,0,building society savings,0
+adfbb01f-2156-471f-87d2-84a91af0d93f,590414,Long Term,692,1243645,10,agriculture,1,rural,1,other,0
+4f09dde1-a987-433a-99de-91f3c2d445e6,189002,Short Term,703,2431962,6,finance,0,rural,0,real estate,1
+86b62db7-9526-4335-a386-063bcd82cb3d,395538,Long Term,697,747213,6,real estate,0,rural,0,real estate,1
+2105a980-75d4-4191-a12b-2e5cc7c18161,447920,Short Term,683,1005784,6,agriculture,0,urban,0,real estate,1
+d891a41d-f475-49a5-b475-d95b072a451f,,Short Term,726,1199964,3,health,0,urban,0,building society savings,1
+1299f13c-514e-40b1-bb0e-57add6fe3e37,302588,Short Term,730,1133673,10,transport,0,rural,0,other,1
+64d94dad-740f-4760-bdf6-3562006d7128,785026,Long Term,,,10,construction,0,urban,0,unknown/none,1
+b868e021-151d-4d2a-a19c-95ea92295641,315920,Long Term,,,9,manufacturing,0,rural,0,other,1
+bde2c558-d1f8-4e9b-8920-ea8241a90ee9,106106,Short Term,719,954579,3,retail,1,rural,1,unknown/none,0
+eeadd70e-80dc-4ebb-96c9-12a616727898,,Short Term,712,652137,1,agriculture,1,rural,0,building society savings,0
+c3239d9d-1761-453f-8f32-1740e52d5cdd,134332,Short Term,,,1,food,0,urban,0,other,0
+82f5b5f0-0ccb-4e8a-8067-c7e34e6771ba,302764,Short Term,738,1531514,3,agriculture,0,urban,0,unknown/none,1
+3483498c-c247-4329-acec-91aeb5c245ab,747736,Long Term,646,1538696,6,transport,1,rural,0,real estate,0
+bcbd22b7-3fdf-4de9-8400-10e62f657f64,216018,Short Term,736,1212656,2,finance,0,rural,0,other,1
+2b374e0f-e505-479c-9f67-77ca8b1a5261,132022,Long Term,695,665076,5,real estate,0,urban,0,other,1
+5f99d4b8-6b1e-4c29-a740-c0f12e6f0888,181346,Short Term,,,8,food,0,urban,0,building society savings,1
+6337b5c4-3745-42b2-9bc9-313b66f6d99a,129184,Short Term,751,1001186,10,retail,0,rural,0,unknown/none,1
+f41b3508-a8af-4cd4-8b6f-8ed437fb68b4,138160,Short Term,728,691828,10,health,0,urban,0,other,1
+5d2aedf5-4d9a-409c-a600-d33f3a04e103,303688,Long Term,703,950285,4,retail,1,rural,1,other,0
+a0605c6c-50ae-44ce-b6c0-00819a2bfc34,175604,Short Term,722,568746,1,retail,0,urban,0,real estate,0
+8e92af1d-3239-455a-b1a5-9795d4b11bbb,112332,Short Term,699,873050,2,agriculture,0,urban,0,other,1
+5fd1a1d0-ab03-4eb3-89a0-d761f6e2fe09,331188,Long Term,641,1525472,1,retail,0,urban,0,other,0
+8d9740d1-d26c-4db6-a042-6b8b6465e366,107734,Short Term,729,651301,10,manufacturing,0,rural,0,building society savings,1
+15f37032-75b5-4dcb-86a0-6a47557cba61,504284,Short Term,718,989919,1,technology,0,urban,0,other,0
+e65846b9-f042-4bfd-84c2-61688ed2ab17,110242,Short Term,716,914014,1,technology,0,rural,0,building society savings,0
+da105bec-b959-451e-9830-0f01afb1a940,401038,Short Term,714,1421941,5,food,0,rural,0,other,1
+e5a50c20-93a3-4fae-a239-fcb0a899b718,457666,Long Term,,,10,transport,0,urban,0,building society savings,1
+609230bd-f426-4227-8ad7-3da7233314f6,291258,Long Term,,,10,agriculture,1,rural,0,building society savings,0
+cf6e16f5-e498-470e-a26b-be9716e7cee0,293744,Short Term,686,743318,9,health,1,rural,1,real estate,0
+f0031fd4-9e59-4661-8ada-f9a9739a90d9,214456,Short Term,718,1543408,2,finance,0,rural,0,other,1
+79c14eee-bde2-4138-8d04-a4f4567e85c3,485782,Short Term,,,10,advertising,0,rural,0,building society savings,1
+e3ad961a-dcaa-4f64-9bc8-3b272bc74ef7,672804,Long Term,720,2699976,4,construction,0,rural,0,real estate,1
+6bf8c8ce-4837-4fc7-8c35-fb847a413c17,192214,Short Term,746,1131792,10,finance,0,rural,0,unknown/none,1
+12edd88d-c4e2-475e-862c-92c7cec78bbe,391732,Long Term,716,845766,5,construction,1,urban,1,real estate,0
+3d2ea5a2-7d1a-47d3-89c9-4e3dd926aaeb,92092,Short Term,723,852188,8,real estate,0,rural,0,real estate,1
+3b9812d3-595f-48ee-baf3-726f3dc117c5,495066,Short Term,712,1766012,3,real estate,0,urban,NA,real estate,1
+f822a943-eda5-4a79-bf70-ff28e86d47f5,614108,Long Term,682,1444722,7,real estate,0,rural,0,real estate,1
+ee7af071-be80-42a0-a5c7-0a3c39b2e3db,214896,Short Term,726,2301337,1,transport,1,rural,1,other,0
+6eb17931-dd7d-4623-a857-09b59b1b0a61,328790,Long Term,719,1390838,10,wholesale,1,urban,1,building society savings,0
+355dd59f-4903-4bed-a1ad-cc31129457f9,325776,Short Term,739,1312976,10,construction,0,urban,0,real estate,1
+50d28022-f1ce-40ae-986b-0e6abeca85f8,75328,Long Term,,,1,transport,0,urban,0,real estate,0
+620fec8d-80ff-44a8-b11c-cc63d5b6aacf,266882,Short Term,698,1382915,10,technology,0,urban,0,other,1
+b3d41859-2c02-48e7-a0ae-ff9a4e76ae8b,171380,Short Term,747,801762,2,transport,0,rural,0,other,1
+f97a1cdd-7f92-4dc5-bccf-ebe1da480b0b,225126,Short Term,719,1788736,7,wholesale,0,rural,0,real estate,1
+0bdbef7d-e8ed-4e96-977d-e038a137e597,,Long Term,701,2508095,8,construction,0,urban,0,building society savings,1
+e08c3d21-9329-4b19-a505-d8f287ccf5a7,565840,Short Term,734,1582377,9,agriculture,0,rural,0,building society savings,1
+673bcab3-a781-4dc4-95e0-14a78276e6a2,155452,Short Term,743,1726074,10,construction,0,urban,0,real estate,1
+e53e2f03-33d4-4c4c-a387-578ebd999b1b,134288,Short Term,723,869801,10,wholesale,0,rural,0,unknown/none,1
+354fbe1e-b0b8-4a90-a78e-9efaf9b4cba5,117084,Short Term,,,10,technology,1,urban,1,building society savings,0
+fad03dfc-cc27-4955-ba69-93fa069e3431,285670,Short Term,744,934515,4,technology,0,rural,0,building society savings,1
+5350b11d-39c5-4f56-9f46-d8105a481b73,519244,Long Term,,,8,technology,1,rural,1,unknown/none,0
+6298e152-84e5-4dd3-a4cd-41cd40ef58c1,70136,Short Term,705,946295,10,retail,0,rural,0,other,1
+a992d10d-d4fb-4edf-8614-98b723f1b435,594000,Short Term,685,1069966,10,construction,0,rural,0,building society savings,1
+b6a65f31-489c-4f5c-8957-4f402f07a308,99704,Short Term,,,1,manufacturing,1,rural,1,building society savings,0
+916d95cf-2225-4ea8-a273-2ae5567be19d,268532,Short Term,720,1855369,5,construction,0,urban,0,building society savings,1
+d7d34b76-a9ea-40e8-a9bc-9075e9df4361,335808,Short Term,,,1,agriculture,0,urban,0,other,0
+c8568b7f-d4d2-4b1a-aa95-a1a4d4e8a3c5,550770,Long Term,715,4090719,8,finance,0,rural,0,building society savings,1
+5b0dbf1d-2ce6-4440-b473-3bf5d84cc720,174548,Short Term,,,6,technology,0,rural,0,unknown/none,1
+5a12f723-b483-4929-aaaf-30c2e840476c,151096,Short Term,747,1134642,9,advertising,1,rural,1,other,0
+36961187-b092-415f-9572-bcd46a1cfb9c,460570,Short Term,,,1,transport,0,rural,0,real estate,0
+32d06b3a-5a7d-4e40-aa83-c0c51d37cc51,769780,Long Term,702,1519544,6,food,0,rural,0,building society savings,1
+86685553-f46b-492d-abad-06d2dc1bc370,171644,Short Term,748,1111728,10,finance,0,urban,0,other,1
+1efb32da-81dc-489e-b01f-163afdb79fb0,220968,Short Term,,,1,real estate,3,urban,1,real estate,0
+e5865761-30b2-444c-8b07-1e44a57df561,223762,Short Term,734,618393,5,technology,0,urban,0,building society savings,1
+058f0963-9ad6-49b9-84c2-a50d2b283837,522456,Long Term,705,1302469,10,manufacturing,0,rural,0,other,1
+6bc47024-31f2-4d20-b5aa-acb09e00b163,448316,Long Term,,,8,transport,0,urban,0,unknown/none,1
+c7179b65-9565-4c66-9a4d-03895d76e770,616484,Long Term,,,10,manufacturing,0,urban,0,real estate,1
+eabbf22d-6170-46ce-a511-d8cee63fc00f,646206,Short Term,714,3069488,7,food,0,urban,0,other,1
+10fad0e9-073d-460c-a41b-b3adf38ca369,522610,Short Term,728,1067515,1,wholesale,0,rural,0,unknown/none,0
+e344c542-c88d-4067-8fca-c8c4ca3974d2,325292,Short Term,707,1217349,1,retail,0,urban,0,building society savings,0
+af6f67a1-3a23-4b84-ad7f-716b9c09ef78,551166,Long Term,725,2878842,10,manufacturing,0,urban,0,building society savings,1
+1299929d-cf69-401d-9e39-ab96c1ff8a66,375298,Short Term,728,926041,10,finance,0,rural,0,real estate,1
+7c06a279-9653-4185-961e-39d5fe242e4d,349360,Short Term,,,2,food,0,rural,0,other,1
+526b6746-fe75-46ae-a699-ae298cd9c378,,Short Term,728,2362897,1,advertising,0,rural,0,real estate,0
+9b324cfb-905c-4cdc-92fb-fd84d475cc10,387970,Short Term,,,1,manufacturing,0,rural,0,building society savings,0
+887c4c97-0da1-44ca-872d-53c0c0ba04f3,120670,Short Term,742,654227,2,manufacturing,0,urban,0,other,1
+9a11bbae-5df7-4840-8364-ce28852805f7,162932,Short Term,748,844227,6,wholesale,0,rural,0,unknown/none,1
+87efeab2-2997-4005-a7aa-9b2cc908c1c6,520542,Short Term,743,1251435,4,construction,0,urban,0,unknown/none,1
+d33a364a-0d38-4af3-9011-dde304127abd,298760,Short Term,,,10,technology,6,rural,5,building society savings,0
+577ab45e-47ee-4be2-af61-2d944512c5fb,391248,Long Term,669,1392719,10,finance,0,rural,0,other,1
+fd46e5bd-361b-4cb1-a1de-4f570524a605,523292,Long Term,,,10,wholesale,0,rural,0,other,1
+10abd023-2f6d-4bc3-9ff1-fa84b3fc061d,108834,Long Term,704,1447344,8,agriculture,0,rural,0,other,1
+8ad11744-c94f-4f7b-8038-42bffadbedb7,333608,Short Term,,,10,manufacturing,0,rural,0,other,1
+e8307e3f-f70f-4d02-b418-18734b746017,264616,Long Term,731,1333059,10,real estate,0,urban,0,other,1
+49e7490e-5847-4541-9d62-c8a2b757cfdd,,Short Term,749,677635,2,technology,0,urban,0,building society savings,1
+2bdf4410-bfb6-448f-8337-63e6fd01a7e0,549516,Short Term,,,3,manufacturing,0,rural,0,building society savings,1
+f3cc5aae-b846-4e4d-a5c7-8bf25cf95c14,356290,Long Term,,,6,construction,0,rural,0,building society savings,1
+3319838f-c476-40ed-b142-a5ad9a2813d7,155254,Short Term,730,1448028,10,health,1,urban,1,real estate,0
+47eadf69-2fea-43f2-885c-a76f7c92d7e1,109692,Short Term,735,625252,5,health,0,urban,0,other,1
+cd85fc71-a410-492e-a260-dfd660a31b30,312818,Short Term,740,1088111,6,wholesale,0,rural,0,unknown/none,1
+979675c7-4cb6-497d-9941-9ed2562c6c60,414414,Short Term,740,813732,5,health,0,urban,0,real estate,1
+278914f0-fe04-49cd-844d-a6dd8476b600,43824,Short Term,720,408709,4,construction,0,urban,0,building society savings,1
+71a86951-50e3-43ab-9d06-87d7bc264e33,172700,Short Term,723,775542,10,real estate,1,rural,1,unknown/none,0
+e035819f-64aa-45a1-b86b-335bb4979f3f,64988,Short Term,,,10,health,0,urban,0,other,1
+480ecd21-b00e-4bf9-8547-7b5269d05ede,269104,Long Term,715,1297567,10,health,1,urban,1,building society savings,0
+840763ec-bdab-4bb2-ab0a-87c037c3a378,327096,Short Term,735,903982,2,construction,2,urban,1,other,0
+b2892b2c-c302-41a1-8a6a-1a52338fd2b1,449636,Short Term,721,2524093,1,technology,0,urban,0,building society savings,0
+64dcd3aa-3c82-4c70-929a-a83d249d894a,,Long Term,689,866799,9,transport,2,urban,2,other,1
+77c6b54a-a0a3-4dda-8ac2-2af5988846f5,214566,Short Term,694,965105,7,real estate,1,urban,1,building society savings,0
+4c7abe43-507b-4d01-b3ec-b46b82ecbe04,306064,Short Term,,,4,transport,0,urban,0,real estate,1
+8c97d885-83ad-4b64-b5a6-92c4ccbeb48d,438636,Long Term,,,10,manufacturing,1,rural,0,real estate,0
+d11855a2-35f1-4370-bf82-1e1e7fe6d817,87252,Short Term,746,1789667,2,manufacturing,0,urban,0,building society savings,1
+baf401b2-5313-499c-9ae3-1d9369c37d3a,143506,Short Term,739,896135,9,health,1,urban,1,unknown/none,0
+47e8c33f-5923-45a9-b5b7-30fd03cf1543,183348,Short Term,,,2,advertising,0,urban,0,unknown/none,1
+6134f961-2dd3-4773-806c-33289517dddc,92642,Long Term,689,571539,2,health,0,rural,0,other,1
+8d25ce7b-92be-4ff0-a134-f3398fb4624e,214874,Long Term,731,1540254,10,advertising,0,rural,0,other,1
+deed9021-d878-4200-b8f4-94f4c63b9b01,372196,Long Term,665,1243645,5,food,0,rural,0,real estate,1
+ab10e32a-c187-4313-b9cd-9e210ce93bdf,153780,Short Term,710,531202,3,construction,0,urban,0,building society savings,1
+2d658da1-af60-4906-a23e-dcbac33d95b9,787644,Long Term,683,1749159,10,manufacturing,0,urban,0,other,1
+f70e194c-3df7-4ebe-acfb-388cac5fcfdd,222816,Short Term,725,1520209,7,real estate,1,rural,1,building society savings,0
+2e958113-d15b-479c-a3bb-35ec85460817,,Long Term,718,3186889,10,health,0,urban,0,building society savings,1
+5d4cc1e3-7890-401e-9760-2a1dafb7d00c,268730,Long Term,681,1218432,2,finance,0,rural,0,other,1
+074de4c9-5e54-4934-a6a6-d7360b12f651,225214,Short Term,,,6,manufacturing,0,rural,0,other,1
+176596bc-30a8-4b95-8cb2-f4ff24e3bd7e,179432,Short Term,,,9,real estate,0,urban,0,building society savings,1
+1278e0fd-cc5b-4e65-8282-f9ace5e87bf4,479490,Long Term,680,2032924,10,wholesale,0,rural,0,building society savings,1
+da7d3376-3992-4068-bc29-a20929c64ed2,464904,Long Term,,,1,advertising,0,rural,0,building society savings,0
+3720e858-cf85-4876-88c6-2d1662b2899f,458700,Long Term,,,7,health,1,rural,1,building society savings,0
+aabf4f9d-13ce-47f7-b65b-1930d66a1a33,,Short Term,726,1058167,4,wholesale,0,rural,0,real estate,1
+653ec81a-ef1d-4033-9b7e-cb17ac527ccf,760298,Long Term,654,2251272,5,technology,0,rural,0,unknown/none,1
+57edc3a9-1995-4333-b173-a45504ac7a1e,151822,Short Term,723,936605,4,technology,0,urban,0,building society savings,1
+22e6fc82-11a7-4da1-939c-ec3c8101d698,46486,Short Term,747,420679,1,manufacturing,0,urban,0,building society savings,0
+e9e768e1-c7b5-464e-8c30-5edd4afcf4d7,,Short Term,735,1575575,5,manufacturing,0,rural,0,other,1
+6025af4b-cdab-4afc-9a6f-d54be33360b2,562826,Long Term,699,1060884,10,food,0,rural,0,other,1
+e3c0b9f3-6eda-4c0f-adc8-2e11dc28ec6f,168102,Short Term,714,427272,5,advertising,0,rural,0,building society savings,1
+e9ad91de-370e-4ae5-bd9d-f7fc538a5a79,,Short Term,719,613415,9,agriculture,0,rural,0,other,1
+c1498408-335b-4499-86a7-0c4760a29a5b,,Short Term,726,742824,10,finance,0,rural,0,real estate,1
+6dcac565-9aeb-4a3f-b1dc-b9e9ea2bfb08,218284,Long Term,721,1319626,10,real estate,0,rural,0,building society savings,1
+2b38d634-6d1b-438e-b614-3b3dbac96d48,387310,Long Term,708,1368418,10,food,0,rural,0,other,1
+dae190eb-1c33-4458-b34d-c14d915ab118,,Short Term,733,1383599,10,wholesale,0,urban,0,unknown/none,1
+9377bdfc-c01a-4b7f-9dcd-6e6155cce7e8,334092,Short Term,737,1442670,10,wholesale,0,urban,0,other,1
